@@ -8,115 +8,115 @@
     </Fragment>
     <Fragment>
         <ComponentGroup Id="ProductComponents">
-            <Component Id="cmpE3843822AFC66FF6D20678A241428EF1" Directory="INSTALLFOLDER" Guid="{E81EFD9F-45D9-4FE2-B127-A57D30CE3EE2}">
-                <File Id="filEDE9AF6F878856BA96664129E3775418" KeyPath="yes" Source="$(MyUnity)\UnityCrashHandler64.exe" />
+            <Component Id="cmpD05BD446F1FBC15DA30E8FC7C39BD61E" Directory="INSTALLFOLDER" Guid="{D9EA7532-4FB7-4D94-9C08-5C6B4597DEF7}">
+                <File Id="fil36AAA7415E0728ACCC903F9D57BCA182" KeyPath="yes" Source="$(MyDemo)\UnityCrashHandler32.exe" />
             </Component>
-            <Component Id="cmpF99B84AFA683504E162C60BE9CEEC885" Directory="INSTALLFOLDER" Guid="{3808FD35-50FB-49A5-A5B3-5D4B8FAACC34}">
-                <File Id="fil727FD670797AFB063CA4B673B45F7184" KeyPath="yes" Source="$(MyUnity)\UnityPlayer.dll" />
+            <Component Id="cmpF99B84AFA683504E162C60BE9CEEC885" Directory="INSTALLFOLDER" Guid="{0809E9B8-6FD2-46ED-A9CE-56E1264533A5}">
+                <File Id="fil727FD670797AFB063CA4B673B45F7184" KeyPath="yes" Source="$(MyDemo)\UnityPlayer.dll" />
             </Component>
-            <Component Id="cmp41A642CC10206C084227B6A2DF546E47" Directory="INSTALLFOLDER" Guid="{FF5C06AC-8F1A-4E0A-82F8-4E060961415A}">
-                <File Id="fil4A7E8DC11BF8A2381FE27278B6E5D8D8" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity.exe" />
+            <Component Id="cmp41A642CC10206C084227B6A2DF546E47" Directory="INSTALLFOLDER" Guid="{84AFB2B1-4B08-4372-8DE6-FC4873A1B395}">
+                <File Id="fil4A7E8DC11BF8A2381FE27278B6E5D8D8" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity.exe" />
             </Component>
-            <Component Id="cmp3A7DEA80932A84039201B95875A928E8" Directory="dirB5B9851265A2D6771FCB7039A66EAB15" Guid="{59C5A0CD-E440-4C1F-9C9E-649CDC94DEA7}">
-                <File Id="fil1D269A9B96A3B0E57BE746E30AB0E63E" KeyPath="yes" Source="$(MyUnity)\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll" />
+            <Component Id="cmp3A7DEA80932A84039201B95875A928E8" Directory="dirB5B9851265A2D6771FCB7039A66EAB15" Guid="{ECED39E2-4B35-4F05-B4E5-74A6E15FE404}">
+                <File Id="fil1D269A9B96A3B0E57BE746E30AB0E63E" KeyPath="yes" Source="$(MyDemo)\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll" />
             </Component>
-            <Component Id="cmp1DCD3766E68D5E232E5EEB5CED9B6513" Directory="dirB5B9851265A2D6771FCB7039A66EAB15" Guid="{F2F6D53D-5A09-4B0A-B8E6-27028F41E37E}">
-                <File Id="fil731CC598FBAB4F856F67C4462AB51566" KeyPath="yes" Source="$(MyUnity)\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll" />
+            <Component Id="cmp1DCD3766E68D5E232E5EEB5CED9B6513" Directory="dirB5B9851265A2D6771FCB7039A66EAB15" Guid="{69FE6C75-FF47-4947-9AF2-66F14C61813B}">
+                <File Id="fil731CC598FBAB4F856F67C4462AB51566" KeyPath="yes" Source="$(MyDemo)\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll" />
             </Component>
-            <Component Id="cmp2DC2E61B04625147B2CF0F02BE6C811A" Directory="dir3BF32161C5FE19F168BD6654549FC2F9" Guid="{54B07579-46FB-4A64-924A-6A5D0048C61E}">
-                <File Id="fil1659972E070039C659692E47F0BB203E" KeyPath="yes" Source="$(MyUnity)\MonoBleedingEdge\etc\mono\browscap.ini" />
+            <Component Id="cmp2DC2E61B04625147B2CF0F02BE6C811A" Directory="dir3BF32161C5FE19F168BD6654549FC2F9" Guid="{ED9C3261-4E6C-4F1E-A619-627D6646D4FC}">
+                <File Id="fil1659972E070039C659692E47F0BB203E" KeyPath="yes" Source="$(MyDemo)\MonoBleedingEdge\etc\mono\browscap.ini" />
             </Component>
-            <Component Id="cmp2FA9D13D22926F39551D8F833F059A00" Directory="dir3BF32161C5FE19F168BD6654549FC2F9" Guid="{647EEE34-7B62-4508-A64B-3655CE41E965}">
-                <File Id="fil73E5B6986D1AFB360CBDE36DF8084E9A" KeyPath="yes" Source="$(MyUnity)\MonoBleedingEdge\etc\mono\config" />
+            <Component Id="cmp2FA9D13D22926F39551D8F833F059A00" Directory="dir3BF32161C5FE19F168BD6654549FC2F9" Guid="{4831CA73-B236-48EF-BEC5-FB7F7AD79A8E}">
+                <File Id="fil73E5B6986D1AFB360CBDE36DF8084E9A" KeyPath="yes" Source="$(MyDemo)\MonoBleedingEdge\etc\mono\config" />
             </Component>
-            <Component Id="cmp8A87C879B593EFDA5DF877DF556AC1A1" Directory="dir2955190AF9D68683114315C80FEB82D2" Guid="{B594E0E5-76FA-4787-B35E-C41E7D50D8EB}">
-                <File Id="filC907C35AB1B0C7DDEE49F27E435AC17F" KeyPath="yes" Source="$(MyUnity)\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx" />
+            <Component Id="cmp8A87C879B593EFDA5DF877DF556AC1A1" Directory="dir2955190AF9D68683114315C80FEB82D2" Guid="{8E740807-4D96-43E4-85E2-630C754B856C}">
+                <File Id="filC907C35AB1B0C7DDEE49F27E435AC17F" KeyPath="yes" Source="$(MyDemo)\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx" />
             </Component>
-            <Component Id="cmpA093AEE76D296B7947256A7AD07137A2" Directory="dir2955190AF9D68683114315C80FEB82D2" Guid="{75F7326B-2677-489A-92CD-B3C8F0A240B4}">
-                <File Id="filECA4E5A9AC8157DFE582125F9EA7A7DE" KeyPath="yes" Source="$(MyUnity)\MonoBleedingEdge\etc\mono\2.0\machine.config" />
+            <Component Id="cmpA093AEE76D296B7947256A7AD07137A2" Directory="dir2955190AF9D68683114315C80FEB82D2" Guid="{823BB6CB-8D48-4875-9047-7D75F437E0AA}">
+                <File Id="filECA4E5A9AC8157DFE582125F9EA7A7DE" KeyPath="yes" Source="$(MyDemo)\MonoBleedingEdge\etc\mono\2.0\machine.config" />
             </Component>
-            <Component Id="cmp3D061C3C1F825C5927C4B81392CACCB4" Directory="dir2955190AF9D68683114315C80FEB82D2" Guid="{0F6E6A96-51EB-4C64-8997-657A0BF88B49}">
-                <File Id="fil7AAE048A0AD4D53CFCD81F16EEC370CB" KeyPath="yes" Source="$(MyUnity)\MonoBleedingEdge\etc\mono\2.0\settings.map" />
+            <Component Id="cmp3D061C3C1F825C5927C4B81392CACCB4" Directory="dir2955190AF9D68683114315C80FEB82D2" Guid="{9B25C0ED-5EE7-4979-B1B2-3F22C7D756D3}">
+                <File Id="fil7AAE048A0AD4D53CFCD81F16EEC370CB" KeyPath="yes" Source="$(MyDemo)\MonoBleedingEdge\etc\mono\2.0\settings.map" />
             </Component>
-            <Component Id="cmpE731B650CAA8C8421D7F997C0D1BF0A0" Directory="dir2955190AF9D68683114315C80FEB82D2" Guid="{76423394-8775-420B-8AB8-62FC7219DDC2}">
-                <File Id="fil60B0B4D207EC6CD949254C18D8CAD2D0" KeyPath="yes" Source="$(MyUnity)\MonoBleedingEdge\etc\mono\2.0\web.config" />
+            <Component Id="cmpE731B650CAA8C8421D7F997C0D1BF0A0" Directory="dir2955190AF9D68683114315C80FEB82D2" Guid="{7B524845-214F-432B-95FB-6A4515210C1D}">
+                <File Id="fil60B0B4D207EC6CD949254C18D8CAD2D0" KeyPath="yes" Source="$(MyDemo)\MonoBleedingEdge\etc\mono\2.0\web.config" />
             </Component>
-            <Component Id="cmp0E3FCFCC58DDD1B434C7D1A1524E7267" Directory="dir8C1472AA173F2B3909F75A3547F52490" Guid="{E2934ABF-E923-40C4-99FC-DC696EFA13D9}">
-                <File Id="filC56B1FB81864603EA6F59731BA3746E0" KeyPath="yes" Source="$(MyUnity)\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser" />
+            <Component Id="cmp0E3FCFCC58DDD1B434C7D1A1524E7267" Directory="dir8C1472AA173F2B3909F75A3547F52490" Guid="{103686E1-484F-420A-B914-7EF5908B912D}">
+                <File Id="filC56B1FB81864603EA6F59731BA3746E0" KeyPath="yes" Source="$(MyDemo)\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser" />
             </Component>
-            <Component Id="cmp28B2F8EBDC98CB8568181188690E3F99" Directory="dir86F77F46322DA8BFA54DC01016AE8EF7" Guid="{87DFED13-02A7-4DE0-B74C-20A3B0D07A3A}">
-                <File Id="filCA14778D9F64B17381FA5CF9838AF0A6" KeyPath="yes" Source="$(MyUnity)\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx" />
+            <Component Id="cmp28B2F8EBDC98CB8568181188690E3F99" Directory="dir86F77F46322DA8BFA54DC01016AE8EF7" Guid="{02EE0221-6578-4416-A554-F877CA57E1F7}">
+                <File Id="filCA14778D9F64B17381FA5CF9838AF0A6" KeyPath="yes" Source="$(MyDemo)\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx" />
             </Component>
-            <Component Id="cmp0591D0ACD53E5B0DA9CF8DBEE19C8988" Directory="dir86F77F46322DA8BFA54DC01016AE8EF7" Guid="{8D407A1D-A374-4C42-9F8E-C2B53A5DADBE}">
-                <File Id="fil58C1500D667428F772EE755552F05C86" KeyPath="yes" Source="$(MyUnity)\MonoBleedingEdge\etc\mono\4.0\machine.config" />
+            <Component Id="cmp0591D0ACD53E5B0DA9CF8DBEE19C8988" Directory="dir86F77F46322DA8BFA54DC01016AE8EF7" Guid="{89A13B12-23D2-4FDF-9867-73318AA3634A}">
+                <File Id="fil58C1500D667428F772EE755552F05C86" KeyPath="yes" Source="$(MyDemo)\MonoBleedingEdge\etc\mono\4.0\machine.config" />
             </Component>
-            <Component Id="cmpEEFD002884521584B32F2485C68A688C" Directory="dir86F77F46322DA8BFA54DC01016AE8EF7" Guid="{0C109B06-3DF2-4635-9BC0-408CBDD72DE0}">
-                <File Id="filCD91DCF629B4306F4A9B7E5FE13DF3FA" KeyPath="yes" Source="$(MyUnity)\MonoBleedingEdge\etc\mono\4.0\settings.map" />
+            <Component Id="cmpEEFD002884521584B32F2485C68A688C" Directory="dir86F77F46322DA8BFA54DC01016AE8EF7" Guid="{3F5CFADD-B12C-43D8-AA0A-C87D137AC243}">
+                <File Id="filCD91DCF629B4306F4A9B7E5FE13DF3FA" KeyPath="yes" Source="$(MyDemo)\MonoBleedingEdge\etc\mono\4.0\settings.map" />
             </Component>
-            <Component Id="cmp1F2D2249F97EAC41E5710CA64B7FA1BE" Directory="dir86F77F46322DA8BFA54DC01016AE8EF7" Guid="{97229DA0-7C5A-400C-BE66-D892496B96DC}">
-                <File Id="fil8B83416C47805986621D518BEBCDE245" KeyPath="yes" Source="$(MyUnity)\MonoBleedingEdge\etc\mono\4.0\web.config" />
+            <Component Id="cmp1F2D2249F97EAC41E5710CA64B7FA1BE" Directory="dir86F77F46322DA8BFA54DC01016AE8EF7" Guid="{1C031F76-6E83-4137-8852-00E0CB64B779}">
+                <File Id="fil8B83416C47805986621D518BEBCDE245" KeyPath="yes" Source="$(MyDemo)\MonoBleedingEdge\etc\mono\4.0\web.config" />
             </Component>
-            <Component Id="cmpC5CC00F9503F6536BFBF15BAD9E1B980" Directory="dir312B83623DAD320E543917734B6AE169" Guid="{CADE66F4-8C19-4AAC-9B6D-F727551DCC2F}">
-                <File Id="fil54E202A590B4EEFFA48BEDB2ABBA9A3E" KeyPath="yes" Source="$(MyUnity)\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser" />
+            <Component Id="cmpC5CC00F9503F6536BFBF15BAD9E1B980" Directory="dir312B83623DAD320E543917734B6AE169" Guid="{387AEDF3-1724-40A1-A1AF-44D86B396AB2}">
+                <File Id="fil54E202A590B4EEFFA48BEDB2ABBA9A3E" KeyPath="yes" Source="$(MyDemo)\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser" />
             </Component>
-            <Component Id="cmpE95E7167C8DA82A5043557A3E56118CF" Directory="dirE6D162F5912040F9EDF6901C4620B693" Guid="{DD670408-6923-42BF-87E8-97EB2CF40A22}">
-                <File Id="fil63E59D6070605E6E1DE60643A76DDB01" KeyPath="yes" Source="$(MyUnity)\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx" />
+            <Component Id="cmpE95E7167C8DA82A5043557A3E56118CF" Directory="dirE6D162F5912040F9EDF6901C4620B693" Guid="{154DF241-917A-417A-A98B-F56A1CDE2FB2}">
+                <File Id="fil63E59D6070605E6E1DE60643A76DDB01" KeyPath="yes" Source="$(MyDemo)\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx" />
             </Component>
-            <Component Id="cmp6FE5959D484AE217D3A156025265CE62" Directory="dirE6D162F5912040F9EDF6901C4620B693" Guid="{30CCE243-30BB-42E0-8512-0E9765100F63}">
-                <File Id="fil04CD544C41B742077CB56672DC4C61C4" KeyPath="yes" Source="$(MyUnity)\MonoBleedingEdge\etc\mono\4.5\machine.config" />
+            <Component Id="cmp6FE5959D484AE217D3A156025265CE62" Directory="dirE6D162F5912040F9EDF6901C4620B693" Guid="{2FF3473F-E832-4FE5-9470-3AFCD423AC31}">
+                <File Id="fil04CD544C41B742077CB56672DC4C61C4" KeyPath="yes" Source="$(MyDemo)\MonoBleedingEdge\etc\mono\4.5\machine.config" />
             </Component>
-            <Component Id="cmp0D011D11CAA45B684612857B1AC693E0" Directory="dirE6D162F5912040F9EDF6901C4620B693" Guid="{A5087824-63F7-4C5A-A777-2E52C35EF2F1}">
-                <File Id="filF63E2864B79F0A41093E21DFDD903067" KeyPath="yes" Source="$(MyUnity)\MonoBleedingEdge\etc\mono\4.5\settings.map" />
+            <Component Id="cmp0D011D11CAA45B684612857B1AC693E0" Directory="dirE6D162F5912040F9EDF6901C4620B693" Guid="{A88008FA-D269-4BAA-907E-D047EF475D2C}">
+                <File Id="filF63E2864B79F0A41093E21DFDD903067" KeyPath="yes" Source="$(MyDemo)\MonoBleedingEdge\etc\mono\4.5\settings.map" />
             </Component>
-            <Component Id="cmpB48D57D2EE9FFDAC394B23B85453B6D6" Directory="dirE6D162F5912040F9EDF6901C4620B693" Guid="{891F3B48-A1DA-4013-8D99-883B026E3CC0}">
-                <File Id="filC5B97DFBE0A8437D859C12ECB4B34160" KeyPath="yes" Source="$(MyUnity)\MonoBleedingEdge\etc\mono\4.5\web.config" />
+            <Component Id="cmpB48D57D2EE9FFDAC394B23B85453B6D6" Directory="dirE6D162F5912040F9EDF6901C4620B693" Guid="{7BD885B4-A3D5-42A0-89FE-CD1A44ED9C82}">
+                <File Id="filC5B97DFBE0A8437D859C12ECB4B34160" KeyPath="yes" Source="$(MyDemo)\MonoBleedingEdge\etc\mono\4.5\web.config" />
             </Component>
-            <Component Id="cmp15C89FEA3B50CE9D39D7264DEB08B151" Directory="dir56AA70870E698411FF002BEBAAD913AC" Guid="{35588176-63C8-4242-8BEC-2676F9AA649D}">
-                <File Id="filD479FECF9571A01D73053585858E9DA0" KeyPath="yes" Source="$(MyUnity)\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser" />
+            <Component Id="cmp15C89FEA3B50CE9D39D7264DEB08B151" Directory="dir56AA70870E698411FF002BEBAAD913AC" Guid="{B117FBE7-43F1-4104-A147-CBEA6B4E488B}">
+                <File Id="filD479FECF9571A01D73053585858E9DA0" KeyPath="yes" Source="$(MyDemo)\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser" />
             </Component>
-            <Component Id="cmp0AFF3ABCB74611E2D1317A1E33A071E2" Directory="dir1680141FD83C57942A5466D82F952D68" Guid="{6C5BC25D-9E26-4F71-B2DA-E70EA1E772BB}">
-                <File Id="filF4828270E30CB04D35A735DD7C3CFEF8" KeyPath="yes" Source="$(MyUnity)\MonoBleedingEdge\etc\mono\mconfig\config.xml" />
+            <Component Id="cmp0AFF3ABCB74611E2D1317A1E33A071E2" Directory="dir1680141FD83C57942A5466D82F952D68" Guid="{7D06F0E6-8FE0-4952-B7F9-B0544E92272D}">
+                <File Id="filF4828270E30CB04D35A735DD7C3CFEF8" KeyPath="yes" Source="$(MyDemo)\MonoBleedingEdge\etc\mono\mconfig\config.xml" />
             </Component>
-            <Component Id="cmpE01435947226EA63D90C56221CDF5DDF" Directory="dirDA92457FC489A04F5EDB93D195C63603" Guid="{2ED7FD86-169D-4253-B7D3-43D44A04BD74}">
-                <File Id="fil0B993A3FF837ACFA98DE0E4408DEFB7E" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\app.info" />
+            <Component Id="cmpE01435947226EA63D90C56221CDF5DDF" Directory="dirDA92457FC489A04F5EDB93D195C63603" Guid="{89E8E232-30E0-4EF0-BC67-AA90DE56AD85}">
+                <File Id="fil0B993A3FF837ACFA98DE0E4408DEFB7E" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\app.info" />
             </Component>
-            <Component Id="cmp38E4473685580DA9DB16AB0C3A1B8EB8" Directory="dirDA92457FC489A04F5EDB93D195C63603" Guid="{F6B32ECF-C37F-4787-AAAB-993A47CF3ABA}">
-                <File Id="filB0D4A5034DA8F58AF7E7FDDBAB5B9D17" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\boot.config" />
+            <Component Id="cmp38E4473685580DA9DB16AB0C3A1B8EB8" Directory="dirDA92457FC489A04F5EDB93D195C63603" Guid="{83BC73B3-A907-4473-943D-ABD23955414F}">
+                <File Id="filB0D4A5034DA8F58AF7E7FDDBAB5B9D17" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\boot.config" />
             </Component>
-            <Component Id="cmp6BCB01CC2A6F12DFB6EB5A00FAFD450C" Directory="dirDA92457FC489A04F5EDB93D195C63603" Guid="{3398276C-9A54-437E-B862-4CA1A10F7D08}">
-                <File Id="filF165F2616FEE8B5FE8AA88393EB5B2BD" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\globalgamemanagers" />
+            <Component Id="cmp6BCB01CC2A6F12DFB6EB5A00FAFD450C" Directory="dirDA92457FC489A04F5EDB93D195C63603" Guid="{563396B5-B3EE-4A4B-B210-C5B0BE882E8D}">
+                <File Id="filF165F2616FEE8B5FE8AA88393EB5B2BD" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\globalgamemanagers" />
             </Component>
-            <Component Id="cmpE3ADBD5F985A2167E21EC846A6F273E9" Directory="dirDA92457FC489A04F5EDB93D195C63603" Guid="{742EAA27-F198-481B-A35A-8B82B95AEC39}">
-                <File Id="fil716A3BF03A7AA5C17514538D4B2195C7" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\globalgamemanagers.assets" />
+            <Component Id="cmpE3ADBD5F985A2167E21EC846A6F273E9" Directory="dirDA92457FC489A04F5EDB93D195C63603" Guid="{2F6DED32-6FE2-4114-B76A-626E773C05AA}">
+                <File Id="fil716A3BF03A7AA5C17514538D4B2195C7" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\globalgamemanagers.assets" />
             </Component>
-            <Component Id="cmp813817477B99553499D4F2D0C8BC6C25" Directory="dirDA92457FC489A04F5EDB93D195C63603" Guid="{FF8DDA92-E971-4953-BA22-E04D0413E827}">
-                <File Id="fil8C34B2665250C92CB7084AD15AF27428" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\level0" />
+            <Component Id="cmp813817477B99553499D4F2D0C8BC6C25" Directory="dirDA92457FC489A04F5EDB93D195C63603" Guid="{1125862F-EDE2-49D8-8BFC-A892B69C5963}">
+                <File Id="fil8C34B2665250C92CB7084AD15AF27428" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\level0" />
             </Component>
-            <Component Id="cmp1C9AA2079B48395F78BE0A28A2C8418B" Directory="dirDA92457FC489A04F5EDB93D195C63603" Guid="{CDE601AE-6A37-4E1A-A753-4D57BDEEA0F4}">
-                <File Id="filE68715B38B0BFA4795895A22DCBA8BBF" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\level0.resS" />
+            <Component Id="cmp1C9AA2079B48395F78BE0A28A2C8418B" Directory="dirDA92457FC489A04F5EDB93D195C63603" Guid="{CDF8D200-9BAF-4BBC-800E-24AF43070A59}">
+                <File Id="filE68715B38B0BFA4795895A22DCBA8BBF" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\level0.resS" />
             </Component>
-            <Component Id="cmpD17B7F44DACB0CDFF59321BE2906C4F8" Directory="dirDA92457FC489A04F5EDB93D195C63603" Guid="{DF8F17FA-C737-425B-B636-A36F2CCE8192}">
-                <File Id="filC54F43191D5F80E2E2D7024349DDB0D5" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\RuntimeInitializeOnLoads.json" />
+            <Component Id="cmpD17B7F44DACB0CDFF59321BE2906C4F8" Directory="dirDA92457FC489A04F5EDB93D195C63603" Guid="{E0EB57AB-5F35-4758-8353-6E11FBF7E1ED}">
+                <File Id="filC54F43191D5F80E2E2D7024349DDB0D5" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\RuntimeInitializeOnLoads.json" />
             </Component>
-            <Component Id="cmp26407055FDB2A7D9E238AFBD21E32337" Directory="dirDA92457FC489A04F5EDB93D195C63603" Guid="{5C321BCA-7C5D-4E9B-A96C-B55D59601D15}">
-                <File Id="fil6C16455BB8C9AECD7676FBEE133ED2BF" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\ScriptingAssemblies.json" />
+            <Component Id="cmp26407055FDB2A7D9E238AFBD21E32337" Directory="dirDA92457FC489A04F5EDB93D195C63603" Guid="{A0A98537-AFD4-4E2F-B890-D91FD886B2C5}">
+                <File Id="fil6C16455BB8C9AECD7676FBEE133ED2BF" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\ScriptingAssemblies.json" />
             </Component>
-            <Component Id="cmp77DBF78473191179E572FD9328810B41" Directory="dirDA92457FC489A04F5EDB93D195C63603" Guid="{353563C9-477D-4402-88BA-9D31F111E13A}">
-                <File Id="filFD77FB333DD583058D60A145531813CD" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\sharedassets0.assets" />
+            <Component Id="cmp77DBF78473191179E572FD9328810B41" Directory="dirDA92457FC489A04F5EDB93D195C63603" Guid="{379CCD4C-0855-49A7-8475-F2F3FAC04FEA}">
+                <File Id="filFD77FB333DD583058D60A145531813CD" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\sharedassets0.assets" />
             </Component>
-            <Component Id="cmp6DA6A84A23088F509E125CA060C16B8E" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{A6EE387A-817F-4E9D-9D0E-B45B7E246F2F}">
-                <File Id="fil80006F0B85961A120FD29770EA5C75BA" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\Mono.Security.dll" />
+            <Component Id="cmp6DA6A84A23088F509E125CA060C16B8E" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{908D407A-9F12-44B2-AA32-54BE8F2B7C3B}">
+                <File Id="fil80006F0B85961A120FD29770EA5C75BA" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\Mono.Security.dll" />
             </Component>
-            <Component Id="cmpE271B5EC004E2BF4AA0FFBC8E31779BB" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{1854C908-18CD-4420-9542-B936708967CA}">
-                <File Id="fil35770C86962D027DBE9EE82161B484F7" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\mscorlib.dll" />
+            <Component Id="cmpE271B5EC004E2BF4AA0FFBC8E31779BB" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{683E4F3F-AE9A-4E85-8E77-9BF657C8085F}">
+                <File Id="fil35770C86962D027DBE9EE82161B484F7" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\mscorlib.dll" />
             </Component>
-            <Component Id="cmp5FC6CC89F330A1CB62FD10D37C91AFE1" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{C3763A61-3598-4C19-8589-A7CB053AB0E1}">
-                <File Id="filA0E219A9346FD3665276E245A23B06E3" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\System.Configuration.dll" />
+            <Component Id="cmp5FC6CC89F330A1CB62FD10D37C91AFE1" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{D546DD11-39A1-4A15-8D2B-24840B90EE06}">
+                <File Id="filA0E219A9346FD3665276E245A23B06E3" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\System.Configuration.dll" />
             </Component>
-            <Component Id="cmpD638CA163BEA4F2CF93CFEF709EE878D" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{1844B7B5-FF45-4603-A9BF-BC55D058B803}">
-                <File Id="filB16218A4BE5429A1A4A5E5B1288928A8" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\System.Core.dll" />
+            <Component Id="cmpD638CA163BEA4F2CF93CFEF709EE878D" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{EF9149D7-7A1A-43BC-B2DE-6E1E8AB7C6BF}">
+                <File Id="filB16218A4BE5429A1A4A5E5B1288928A8" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\System.Core.dll" />
             </Component>
-            <Component Id="cmp620516B8320323386EC59773078FEBC9" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{8F7FDEF0-7EF4-41C4-A991-3F3A4CCBCCED}">
+            <Component Id="cmp620516B8320323386EC59773078FEBC9" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{1C714697-23D7-4E4F-877D-FE03BF508CA0}">
                 <Class Id="{031A6B24-BFAA-3D76-B6DA-59C9C469A0FB}" Context="InprocServer32" Description="System.CodeDom.CodeMethodReturnStatement" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="System.CodeDom.CodeMethodReturnStatement" Description="System.CodeDom.CodeMethodReturnStatement" />
                 </Class>
@@ -381,7 +381,7 @@
                 <Class Id="{FB6A595A-B5DD-3361-8842-70E806D73573}" Context="InprocServer32" Description="System.CodeDom.CodeTypeOfExpression" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="System.CodeDom.CodeTypeOfExpression" Description="System.CodeDom.CodeTypeOfExpression" />
                 </Class>
-                <File Id="fil467A2A1D40FF763DFEA88EBB4C5EDAA6" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\System.dll" />
+                <File Id="fil467A2A1D40FF763DFEA88EBB4C5EDAA6" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\System.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{031A6B24-BFAA-3D76-B6DA-59C9C469A0FB}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{031A6B24-BFAA-3D76-B6DA-59C9C469A0FB}\InprocServer32\4.0.0.0" Name="Class" Value="System.CodeDom.CodeMethodReturnStatement" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{031A6B24-BFAA-3D76-B6DA-59C9C469A0FB}\InprocServer32\4.0.0.0" Name="Assembly" Value="System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Type="string" Action="write" />
@@ -1207,16 +1207,16 @@
                 <RegistryValue Root="HKCR" Key="Record\{AC5C943A-C585-311B-A920-33C6CCE59F2F}\4.0.0.0" Name="RuntimeVersion" Value="v4.0.30319" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{AC5C943A-C585-311B-A920-33C6CCE59F2F}\4.0.0.0" Name="CodeBase" Value="file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/System/v4.0_4.0.0.0__b77a5c561934e089/System.dll" Type="string" Action="write" />
             </Component>
-            <Component Id="cmp721912F0FE3FB13CD6754A910611FE7E" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{2EF8F57B-9AD2-4B0B-BD60-DA42134C7B69}">
-                <File Id="filA14AA0E5FF71958D077E7A5A352ED80E" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\System.Numerics.dll" />
+            <Component Id="cmp721912F0FE3FB13CD6754A910611FE7E" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{8E809365-0B2A-4EAE-BB11-9EB6DE9FC837}">
+                <File Id="filA14AA0E5FF71958D077E7A5A352ED80E" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\System.Numerics.dll" />
             </Component>
-            <Component Id="cmpD93D76F93B2ACD1F72299B1F7941311D" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{E3703326-6DA6-4A05-90E4-C2CC8BA41A97}">
-                <File Id="filD2A5391A8D13F3BBCBE2A58522429C89" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\System.Security.dll" />
+            <Component Id="cmpD93D76F93B2ACD1F72299B1F7941311D" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{92BA1DDD-00FB-4CF5-A57C-7746FBCB8AD5}">
+                <File Id="filD2A5391A8D13F3BBCBE2A58522429C89" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\System.Security.dll" />
             </Component>
-            <Component Id="cmpA76E68AE31097134B1243AEE4885964B" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{8D3C92CF-DFAD-4877-97E7-76A71F5836A8}">
-                <File Id="filA916FAA6AC24375B2BA7EC43B51524B4" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\System.Xml.dll" />
+            <Component Id="cmpA76E68AE31097134B1243AEE4885964B" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{086FB4E2-416A-4CF5-A80A-FC4A80F52D53}">
+                <File Id="filA916FAA6AC24375B2BA7EC43B51524B4" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\System.Xml.dll" />
             </Component>
-            <Component Id="cmp839B3966847DCB1730AAEF42C4BA0DE4" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{D741EE0C-F6B3-401F-AE9A-783B91A2ABAE}">
+            <Component Id="cmp839B3966847DCB1730AAEF42C4BA0DE4" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{7A07BC43-01B6-4CB5-BFD1-D06AF01B81F3}">
                 <Class Id="{01E476A1-7F54-32A8-AEA6-643856903012}" Context="InprocServer32" Description="TMPro.MaterialReferenceManager" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="TMPro.MaterialReferenceManager" Description="TMPro.MaterialReferenceManager" />
                 </Class>
@@ -1340,7 +1340,7 @@
                 <Class Id="{F43A14CB-3814-33DB-9148-68DDC53CE1F2}" Context="InprocServer32" Description="TMPro.TMP_InputField+TextSelectionEvent" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="TMPro.TMP_InputField+TextSelectionEvent" Description="TMPro.TMP_InputField+TextSelectionEvent" />
                 </Class>
-                <File Id="fil6C57040FC3A05D791D319696D9ACFB0F" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\Unity.TextMeshPro.dll" />
+                <File Id="fil6C57040FC3A05D791D319696D9ACFB0F" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\Unity.TextMeshPro.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{01E476A1-7F54-32A8-AEA6-643856903012}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{01E476A1-7F54-32A8-AEA6-643856903012}\InprocServer32\0.0.0.0" Name="Class" Value="TMPro.MaterialReferenceManager" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{01E476A1-7F54-32A8-AEA6-643856903012}\InprocServer32\0.0.0.0" Name="Assembly" Value="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -1951,10 +1951,10 @@
                 <RegistryValue Root="HKCR" Key="Record\{FBA5CCCC-30EB-3DC7-82CC-800E37EF6B96}\0.0.0.0" Name="RuntimeVersion" Value="v4.0.30319" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{FBA5CCCC-30EB-3DC7-82CC-800E37EF6B96}\0.0.0.0" Name="CodeBase" Value="file:///[#fil6C57040FC3A05D791D319696D9ACFB0F]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmpC4484CB827B5A5EEB39EE34941BCD865" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{C286E855-0AEB-48A2-9328-749A36451F8D}">
-                <File Id="fil827C70237F44B437F166D67BEC9EFA52" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\Unity.Timeline.dll" />
+            <Component Id="cmpC4484CB827B5A5EEB39EE34941BCD865" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{CB679512-1051-447D-B2D7-6F23A425F4C8}">
+                <File Id="fil827C70237F44B437F166D67BEC9EFA52" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\Unity.Timeline.dll" />
             </Component>
-            <Component Id="cmpB51CEAA351CB0DA37241E26F5B4EDF3C" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{B77C20C3-34C2-4954-88A3-D20EA1CC1EA4}">
+            <Component Id="cmpB51CEAA351CB0DA37241E26F5B4EDF3C" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{61503641-BCD5-45ED-82CE-E368CCC5241E}">
                 <Class Id="{0A63D4ED-AC91-38C2-A784-1C1C41B60A3D}" Context="InprocServer32" Description="Unity.VisualScripting.Antlr3.Runtime.MismatchedSetException" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="Unity.VisualScripting.Antlr3.Runtime.MismatchedSetException" Description="Unity.VisualScripting.Antlr3.Runtime.MismatchedSetException" />
                 </Class>
@@ -2045,7 +2045,7 @@
                 <Class Id="{F71380E3-5215-3B39-91FD-8EB2CCB30336}" Context="InprocServer32" Description="Unity.VisualScripting.Antlr3.Runtime.FailedPredicateException" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="Unity.VisualScripting.Antlr3.Runtime.FailedPredicateException" Description="Unity.VisualScripting.Antlr3.Runtime.FailedPredicateException" />
                 </Class>
-                <File Id="fil6F47CAB494347FBCA4972A049338FDF6" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\Unity.VisualScripting.Antlr3.Runtime.dll" />
+                <File Id="fil6F47CAB494347FBCA4972A049338FDF6" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\Unity.VisualScripting.Antlr3.Runtime.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{0A63D4ED-AC91-38C2-A784-1C1C41B60A3D}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{0A63D4ED-AC91-38C2-A784-1C1C41B60A3D}\InprocServer32\3.1.3.22795" Name="Class" Value="Unity.VisualScripting.Antlr3.Runtime.MismatchedSetException" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{0A63D4ED-AC91-38C2-A784-1C1C41B60A3D}\InprocServer32\3.1.3.22795" Name="Assembly" Value="Unity.VisualScripting.Antlr3.Runtime, Version=3.1.3.22795, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -2321,7 +2321,7 @@
                 <RegistryValue Root="HKCR" Key="Record\{EBADEE6D-2B0F-32C7-A3F1-E10ACB3BC950}\3.1.3.22795" Name="RuntimeVersion" Value="v4.0.30319" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{EBADEE6D-2B0F-32C7-A3F1-E10ACB3BC950}\3.1.3.22795" Name="CodeBase" Value="file:///[#fil6F47CAB494347FBCA4972A049338FDF6]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmp8077F7F4D24FCA6047751CDCC3B5CCFA" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{B2164750-1D64-4FA9-AFC4-357F1505AC1F}">
+            <Component Id="cmp8077F7F4D24FCA6047751CDCC3B5CCFA" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{E76B1A2D-B215-4CC0-ABBB-ACAB6310DA97}">
                 <Class Id="{03AF8B80-8B83-329C-9021-33A824464B22}" Context="InprocServer32" Description="Unity.VisualScripting.GraphGroup" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="Unity.VisualScripting.GraphGroup" Description="Unity.VisualScripting.GraphGroup" />
                 </Class>
@@ -2820,7 +2820,7 @@
                 <Class Id="{FF83E51A-1856-330B-AF9C-0C1FAF39A2D1}" Context="InprocServer32" Description="Unity.VisualScripting.FullSerializer.Internal.Converters.UnityEvent_Converter" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="Unity.VisualScripting.FullSerializer.Internal.Converters.UnityEvent_Converter" Description="Unity.VisualScripting.FullSerializer.Internal.Converters.UnityEvent_Converter" />
                 </Class>
-                <File Id="fil8330E8A13E6B5E6CF3372BC4BF6DEF7B" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\Unity.VisualScripting.Core.dll" />
+                <File Id="fil8330E8A13E6B5E6CF3372BC4BF6DEF7B" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\Unity.VisualScripting.Core.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{03AF8B80-8B83-329C-9021-33A824464B22}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{03AF8B80-8B83-329C-9021-33A824464B22}\InprocServer32\0.0.0.0" Name="Class" Value="Unity.VisualScripting.GraphGroup" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{03AF8B80-8B83-329C-9021-33A824464B22}\InprocServer32\0.0.0.0" Name="Assembly" Value="Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -4412,7 +4412,7 @@
                 <RegistryValue Root="HKCR" Key="Record\{FF6D72CF-CA90-3FB4-863D-83FCE64AC176}\0.0.0.0" Name="RuntimeVersion" Value="v4.0.30319" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{FF6D72CF-CA90-3FB4-863D-83FCE64AC176}\0.0.0.0" Name="CodeBase" Value="file:///[#fil8330E8A13E6B5E6CF3372BC4BF6DEF7B]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmp4354120B5F6ACD09546A695C3379699E" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{BCC3A080-A1F0-4DE5-B2D6-1E55413B2A77}">
+            <Component Id="cmp4354120B5F6ACD09546A695C3379699E" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{A178DB69-B04A-4054-8433-A32A18E03492}">
                 <Class Id="{005EA1C4-B647-3F5A-A100-12C171D1C177}" Context="InprocServer32" Description="Unity.VisualScripting.For" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="Unity.VisualScripting.For" Description="Unity.VisualScripting.For" />
                 </Class>
@@ -5331,7 +5331,7 @@
                 <Class Id="{FFD20478-4904-3078-85A4-B3879AD9D9E1}" Context="InprocServer32" Description="Unity.VisualScripting.Vector3CrossProduct" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="Unity.VisualScripting.Vector3CrossProduct" Description="Unity.VisualScripting.Vector3CrossProduct" />
                 </Class>
-                <File Id="fil19E8FB73EE974188D9BAE179C77F4FF1" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\Unity.VisualScripting.Flow.dll" />
+                <File Id="fil19E8FB73EE974188D9BAE179C77F4FF1" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\Unity.VisualScripting.Flow.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{005EA1C4-B647-3F5A-A100-12C171D1C177}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{005EA1C4-B647-3F5A-A100-12C171D1C177}\InprocServer32\0.0.0.0" Name="Class" Value="Unity.VisualScripting.For" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{005EA1C4-B647-3F5A-A100-12C171D1C177}\InprocServer32\0.0.0.0" Name="Assembly" Value="Unity.VisualScripting.Flow, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -8111,7 +8111,7 @@
                 <RegistryValue Root="HKCR" Key="Record\{E2A140ED-84B4-3F92-8C38-A1AA1317A0E9}\0.0.0.0" Name="RuntimeVersion" Value="v4.0.30319" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{E2A140ED-84B4-3F92-8C38-A1AA1317A0E9}\0.0.0.0" Name="CodeBase" Value="file:///[#fil19E8FB73EE974188D9BAE179C77F4FF1]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmp55930DFF963CAEC5A4282C1DB43A58A6" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{374AC223-A658-4D97-9DC5-8DCF1E6B612B}">
+            <Component Id="cmp55930DFF963CAEC5A4282C1DB43A58A6" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{8E784A2F-100D-49ED-9B39-F517D85E7D51}">
                 <Class Id="{004855F0-F50F-3734-89CD-7D4B025B07D4}" Context="InprocServer32" Description="Unity.VisualScripting.SetStateGraph" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="Unity.VisualScripting.SetStateGraph" Description="Unity.VisualScripting.SetStateGraph" />
                 </Class>
@@ -8166,7 +8166,7 @@
                 <Class Id="{C08F3D90-C34E-35E1-88B8-94B08172180D}" Context="InprocServer32" Description="Unity.VisualScripting.StateMachine" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="Unity.VisualScripting.StateMachine" Description="Unity.VisualScripting.StateMachine" />
                 </Class>
-                <File Id="fil72297DF3B00EFB182C54DFEBB9DF5A95" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\Unity.VisualScripting.State.dll" />
+                <File Id="fil72297DF3B00EFB182C54DFEBB9DF5A95" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\Unity.VisualScripting.State.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{004855F0-F50F-3734-89CD-7D4B025B07D4}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{004855F0-F50F-3734-89CD-7D4B025B07D4}\InprocServer32\0.0.0.0" Name="Class" Value="Unity.VisualScripting.SetStateGraph" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{004855F0-F50F-3734-89CD-7D4B025B07D4}\InprocServer32\0.0.0.0" Name="Assembly" Value="Unity.VisualScripting.State, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -8342,10 +8342,10 @@
                 <RegistryValue Root="HKCR" Key="Record\{B94788F6-7C8F-3011-BAA6-DDD3EC40F081}\0.0.0.0" Name="RuntimeVersion" Value="v4.0.30319" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{B94788F6-7C8F-3011-BAA6-DDD3EC40F081}\0.0.0.0" Name="CodeBase" Value="file:///[#fil72297DF3B00EFB182C54DFEBB9DF5A95]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmp767C8844D2FB554D3489E0765A2E1D77" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{FC5318AA-1B12-46E6-AB94-4F445C3A9D98}">
-                <File Id="filA78EF75FEC02C1159F0B85D1CBF01FAF" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.AccessibilityModule.dll" />
+            <Component Id="cmp767C8844D2FB554D3489E0765A2E1D77" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{EA3B6B2B-8365-44DE-B090-895B76574D5F}">
+                <File Id="filA78EF75FEC02C1159F0B85D1CBF01FAF" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.AccessibilityModule.dll" />
             </Component>
-            <Component Id="cmp866DE65A5ADDC2BD39840691398124BF" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{18139C82-9F75-4BDD-A870-0BC8A002C5F4}">
+            <Component Id="cmp866DE65A5ADDC2BD39840691398124BF" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{683C09B1-C4D6-4B5B-A450-87C15CC120C7}">
                 <Class Id="{2E980D1B-F3A3-3C5F-8E80-DFAE6A54429D}" Context="InprocServer32" Description="UnityEngine.AI.NavMeshPath" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.AI.NavMeshPath" Description="UnityEngine.AI.NavMeshPath" />
                 </Class>
@@ -8361,7 +8361,7 @@
                 <Class Id="{FA2F037A-5814-32DF-9905-68EA27CA3705}" Context="InprocServer32" Description="UnityEngine.AI.NavMeshAgent" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.AI.NavMeshAgent" Description="UnityEngine.AI.NavMeshAgent" />
                 </Class>
-                <File Id="fil1B334434BF25E2BA21BAC8B80C73C4B7" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.AIModule.dll" />
+                <File Id="fil1B334434BF25E2BA21BAC8B80C73C4B7" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.AIModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{2E980D1B-F3A3-3C5F-8E80-DFAE6A54429D}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{2E980D1B-F3A3-3C5F-8E80-DFAE6A54429D}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.AI.NavMeshPath" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{2E980D1B-F3A3-3C5F-8E80-DFAE6A54429D}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.AIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -8504,14 +8504,14 @@
                 <RegistryValue Root="HKCR" Key="Record\{D9E1EF65-6742-3E95-B19E-D9B33EC3A283}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{D9E1EF65-6742-3E95-B19E-D9B33EC3A283}\0.0.0.0" Name="CodeBase" Value="file:///[#fil1B334434BF25E2BA21BAC8B80C73C4B7]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmpEAA6DD0FA8BD9C4691D7341BD6E58EB0" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{67A7D263-7CE3-47DC-8EDF-9F720B26F096}">
+            <Component Id="cmpEAA6DD0FA8BD9C4691D7341BD6E58EB0" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{26FBFDF2-57F9-4B93-8903-DAB448F53360}">
                 <Class Id="{1A178A80-1F71-3FFD-80F5-1E70721C62CD}" Context="InprocServer32" Description="UnityEngine.Android.AndroidDevice" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.Android.AndroidDevice" Description="UnityEngine.Android.AndroidDevice" />
                 </Class>
                 <Class Id="{ED0AFFC3-C5AF-325D-BBFE-8A35812E6898}" Context="InprocServer32" Description="UnityEngine.Android.PermissionCallbacks" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.Android.PermissionCallbacks" Description="UnityEngine.Android.PermissionCallbacks" />
                 </Class>
-                <File Id="fil1A482573E6C12E39D1C671C71B95C337" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.AndroidJNIModule.dll" />
+                <File Id="fil1A482573E6C12E39D1C671C71B95C337" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.AndroidJNIModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{1A178A80-1F71-3FFD-80F5-1E70721C62CD}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{1A178A80-1F71-3FFD-80F5-1E70721C62CD}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.Android.AndroidDevice" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{1A178A80-1F71-3FFD-80F5-1E70721C62CD}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.AndroidJNIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -8551,7 +8551,7 @@
                 <RegistryValue Root="HKCR" Key="Record\{EC008568-668D-3162-9DDD-646DC742EE24}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{EC008568-668D-3162-9DDD-646DC742EE24}\0.0.0.0" Name="CodeBase" Value="file:///[#fil1A482573E6C12E39D1C671C71B95C337]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmp417EC49776E3FD16F45DDA718FEF0421" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{0AF7812B-FDCF-48DF-8DA7-5520CEEE3176}">
+            <Component Id="cmp417EC49776E3FD16F45DDA718FEF0421" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{F6821AA4-E84E-4612-B277-259D3D9F69F3}">
                 <Class Id="{16F18B65-3905-3C32-ABC7-7B3EC0EA0960}" Context="InprocServer32" Description="UnityEngine.Animations.DiscreteEvaluationAttribute" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.Animations.DiscreteEvaluationAttribute" Description="UnityEngine.Animations.DiscreteEvaluationAttribute" />
                 </Class>
@@ -8597,7 +8597,7 @@
                 <Class Id="{DC3F717B-56AF-34FD-92CB-D1563780F541}" Context="InprocServer32" Description="UnityEngine.Animations.NotKeyableAttribute" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.Animations.NotKeyableAttribute" Description="UnityEngine.Animations.NotKeyableAttribute" />
                 </Class>
-                <File Id="fil53B4687BE002A705CA09785351B0B475" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.AnimationModule.dll" />
+                <File Id="fil53B4687BE002A705CA09785351B0B475" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.AnimationModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{16F18B65-3905-3C32-ABC7-7B3EC0EA0960}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{16F18B65-3905-3C32-ABC7-7B3EC0EA0960}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.Animations.DiscreteEvaluationAttribute" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{16F18B65-3905-3C32-ABC7-7B3EC0EA0960}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -8926,10 +8926,10 @@
                 <RegistryValue Root="HKCR" Key="Record\{F7899FD4-780F-3CB8-B67F-81F5EFAF5A32}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{F7899FD4-780F-3CB8-B67F-81F5EFAF5A32}\0.0.0.0" Name="CodeBase" Value="file:///[#fil53B4687BE002A705CA09785351B0B475]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmpDA59F1698A925AF6541DD5CE213E4CA8" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{C365E11D-4A3A-4BDA-91C7-EFF265A44413}">
-                <File Id="fil6DB06AA05C26099020E9E92841B75DAB" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.ARModule.dll" />
+            <Component Id="cmpDA59F1698A925AF6541DD5CE213E4CA8" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{FA9E6AD0-6CEC-4B71-B230-029FBF72334E}">
+                <File Id="fil6DB06AA05C26099020E9E92841B75DAB" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.ARModule.dll" />
             </Component>
-            <Component Id="cmpF0B2CA30DE500D5FF37DE9CB0A443016" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{CD43A07E-99B4-4C80-8D79-324039D62687}">
+            <Component Id="cmpF0B2CA30DE500D5FF37DE9CB0A443016" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{88DAB20F-B5CD-415D-92DD-3D81989D15FB}">
                 <Class Id="{578F4A3D-A5B1-3053-B513-15FEFC51E531}" Context="InprocServer32" Description="UnityEngine.AssetBundleRequest" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.AssetBundleRequest" Description="UnityEngine.AssetBundleRequest" />
                 </Class>
@@ -8939,7 +8939,7 @@
                 <Class Id="{6A0EEAF6-7D11-3270-9845-63F4859AEE59}" Context="InprocServer32" Description="UnityEngine.AssetBundleRecompressOperation" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.AssetBundleRecompressOperation" Description="UnityEngine.AssetBundleRecompressOperation" />
                 </Class>
-                <File Id="fil31661D894F49FD90CFB2B8314DB845CA" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.AssetBundleModule.dll" />
+                <File Id="fil31661D894F49FD90CFB2B8314DB845CA" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.AssetBundleModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{578F4A3D-A5B1-3053-B513-15FEFC51E531}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{578F4A3D-A5B1-3053-B513-15FEFC51E531}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.AssetBundleRequest" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{578F4A3D-A5B1-3053-B513-15FEFC51E531}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.AssetBundleModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -8984,7 +8984,7 @@
                 <RegistryValue Root="HKCR" Key="Record\{C01EFDD3-3155-33C4-B09D-D77CF2388ADB}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{C01EFDD3-3155-33C4-B09D-D77CF2388ADB}\0.0.0.0" Name="CodeBase" Value="file:///[#fil31661D894F49FD90CFB2B8314DB845CA]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmp157F3F8AAFE450C78A0FAC78AB3FBD1F" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{95E9D2DF-FF88-44A1-9C49-DCCD7C1D140B}">
+            <Component Id="cmp157F3F8AAFE450C78A0FAC78AB3FBD1F" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{6450529B-E4E8-41DA-B588-91DDCD55F096}">
                 <Class Id="{0930E7C1-7853-3F2D-B438-4E426EC17A24}" Context="InprocServer32" Description="UnityEngine.AudioDistortionFilter" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.AudioDistortionFilter" Description="UnityEngine.AudioDistortionFilter" />
                 </Class>
@@ -9027,7 +9027,7 @@
                 <Class Id="{FEA2C7F3-80A0-34D1-873E-0D25F559E0B0}" Context="InprocServer32" Description="UnityEngine.AudioReverbFilter" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.AudioReverbFilter" Description="UnityEngine.AudioReverbFilter" />
                 </Class>
-                <File Id="fil72C46CEE4D150048B2682262E24E15BB" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.AudioModule.dll" />
+                <File Id="fil72C46CEE4D150048B2682262E24E15BB" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.AudioModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{0930E7C1-7853-3F2D-B438-4E426EC17A24}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{0930E7C1-7853-3F2D-B438-4E426EC17A24}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.AudioDistortionFilter" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{0930E7C1-7853-3F2D-B438-4E426EC17A24}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -9223,11 +9223,11 @@
                 <RegistryValue Root="HKCR" Key="Record\{EE6FD86A-58D1-32AC-BA6D-252145ADA356}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{EE6FD86A-58D1-32AC-BA6D-252145ADA356}\0.0.0.0" Name="CodeBase" Value="file:///[#fil72C46CEE4D150048B2682262E24E15BB]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmpB20A4057010EBE93D5F1AF8DB75A3EBF" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{8AE48711-D4BC-468D-9375-46D544435444}">
+            <Component Id="cmpB20A4057010EBE93D5F1AF8DB75A3EBF" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{907E7038-08FC-4FBC-B85E-1A36C9040F77}">
                 <Class Id="{356C6DE5-C79E-3D27-B5B1-CB594D472394}" Context="InprocServer32" Description="UnityEngine.Cloth" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.Cloth" Description="UnityEngine.Cloth" />
                 </Class>
-                <File Id="filDB850043C22E0AE76CBE2D6AA0DF7C71" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.ClothModule.dll" />
+                <File Id="filDB850043C22E0AE76CBE2D6AA0DF7C71" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.ClothModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{356C6DE5-C79E-3D27-B5B1-CB594D472394}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{356C6DE5-C79E-3D27-B5B1-CB594D472394}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.Cloth" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{356C6DE5-C79E-3D27-B5B1-CB594D472394}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.ClothModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -9246,11 +9246,11 @@
                 <RegistryValue Root="HKCR" Key="Record\{CF7EFA5E-BDFD-3677-B540-9AEC4D5D04B1}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{CF7EFA5E-BDFD-3677-B540-9AEC4D5D04B1}\0.0.0.0" Name="CodeBase" Value="file:///[#filDB850043C22E0AE76CBE2D6AA0DF7C71]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmpF10C9596866F42BE81F50C4AB5109CC2" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{A3A085AC-EE18-4498-BEE8-27E84F942F6D}">
+            <Component Id="cmpF10C9596866F42BE81F50C4AB5109CC2" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{21C34A34-932C-47DA-9A0A-352F2C94E587}">
                 <Class Id="{7E4FA8A3-2AA9-35BD-BCD4-AEA769281DFC}" Context="InprocServer32" Description="UnityEngine.ClusterInput" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.ClusterInput" Description="UnityEngine.ClusterInput" />
                 </Class>
-                <File Id="fil37A921B3CC095CB3FBBBF7601D37ED33" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.ClusterInputModule.dll" />
+                <File Id="fil37A921B3CC095CB3FBBBF7601D37ED33" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.ClusterInputModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{7E4FA8A3-2AA9-35BD-BCD4-AEA769281DFC}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{7E4FA8A3-2AA9-35BD-BCD4-AEA769281DFC}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.ClusterInput" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{7E4FA8A3-2AA9-35BD-BCD4-AEA769281DFC}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.ClusterInputModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -9265,11 +9265,11 @@
                 <RegistryValue Root="HKCR" Key="Record\{5B213F06-4AED-3BDC-8940-C31513FFFD00}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{5B213F06-4AED-3BDC-8940-C31513FFFD00}\0.0.0.0" Name="CodeBase" Value="file:///[#fil37A921B3CC095CB3FBBBF7601D37ED33]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmp9DB8E539239EA757EF12DDBA9B0DB3FB" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{C26E6D58-100C-4A69-8101-875E460FFF17}">
+            <Component Id="cmp9DB8E539239EA757EF12DDBA9B0DB3FB" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{D53BFEE3-3B9C-4E14-B109-E621D060937A}">
                 <Class Id="{7278FB08-D944-3E7B-9FB2-7E3453153562}" Context="InprocServer32" Description="UnityEngine.ClusterNetwork" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.ClusterNetwork" Description="UnityEngine.ClusterNetwork" />
                 </Class>
-                <File Id="filA74ABEE5C8E0E47322F606375D20CE52" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.ClusterRendererModule.dll" />
+                <File Id="filA74ABEE5C8E0E47322F606375D20CE52" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.ClusterRendererModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{7278FB08-D944-3E7B-9FB2-7E3453153562}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{7278FB08-D944-3E7B-9FB2-7E3453153562}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.ClusterNetwork" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{7278FB08-D944-3E7B-9FB2-7E3453153562}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.ClusterRendererModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -9280,7 +9280,7 @@
                 <RegistryValue Root="HKCR" Key="CLSID\{7278FB08-D944-3E7B-9FB2-7E3453153562}\InprocServer32" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{7278FB08-D944-3E7B-9FB2-7E3453153562}\InprocServer32" Name="CodeBase" Value="file:///[#filA74ABEE5C8E0E47322F606375D20CE52]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmpE18F4E6EFCCCA213C2F3BF8DE03F0FFA" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{F90D4A44-AFF0-458E-9F9A-C648313D255F}">
+            <Component Id="cmpE18F4E6EFCCCA213C2F3BF8DE03F0FFA" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{530FD47B-81FC-4433-8D67-698DA4A1E1C0}">
                 <Class Id="{00808538-DADD-3386-8909-71B0B4080C13}" Context="InprocServer32" Description="UnityEngine.GL" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.GL" Description="UnityEngine.GL" />
                 </Class>
@@ -9797,7 +9797,7 @@
                 <Class Id="{FF6EEC08-F316-3514-A425-1FCFDC2F5389}" Context="InprocServer32" Description="UnityEngineInternal.MemorylessManager" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngineInternal.MemorylessManager" Description="UnityEngineInternal.MemorylessManager" />
                 </Class>
-                <File Id="fil8505E28070AE5DD816FD11375B7382D7" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.CoreModule.dll" />
+                <File Id="fil8505E28070AE5DD816FD11375B7382D7" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.CoreModule.dll" />
                 <ProgId Id="Record" />
                 <RegistryValue Root="HKCR" Key="CLSID\{00808538-DADD-3386-8909-71B0B4080C13}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{00808538-DADD-3386-8909-71B0B4080C13}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.GL" Type="string" Action="write" />
@@ -13604,14 +13604,14 @@
                 <RegistryValue Root="HKCR" Key="Record\{FF796909-A1E1-3A78-99D7-70A33774B12E}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{FF796909-A1E1-3A78-99D7-70A33774B12E}\0.0.0.0" Name="CodeBase" Value="file:///[#fil8505E28070AE5DD816FD11375B7382D7]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmp6E5A261D3B7BD9FF736BEE6B30D8C36D" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{A33EBABD-7529-4E29-A003-BD93A7110798}">
-                <File Id="filF7B9FACB76E9FFE951075DF04E6E1DEB" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.CrashReportingModule.dll" />
+            <Component Id="cmp6E5A261D3B7BD9FF736BEE6B30D8C36D" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{2F7AA081-26AD-49CF-9777-4ACE8CED7297}">
+                <File Id="filF7B9FACB76E9FFE951075DF04E6E1DEB" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.CrashReportingModule.dll" />
             </Component>
-            <Component Id="cmp6A032E6F7C8FDB3B1E7BE44A28DE7371" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{DB70BA34-A196-4278-875C-69F9DCCA47C2}">
+            <Component Id="cmp6A032E6F7C8FDB3B1E7BE44A28DE7371" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{E77564DD-F2B5-4FBD-BDA4-47D58F67E9BD}">
                 <Class Id="{536F6661-4B1C-3B3F-857A-A56EBF6A4784}" Context="InprocServer32" Description="UnityEngine.Playables.PlayableDirector" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.Playables.PlayableDirector" Description="UnityEngine.Playables.PlayableDirector" />
                 </Class>
-                <File Id="fil509E6C550B6F6C26421D63995080B6CE" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.DirectorModule.dll" />
+                <File Id="fil509E6C550B6F6C26421D63995080B6CE" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.DirectorModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{536F6661-4B1C-3B3F-857A-A56EBF6A4784}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{536F6661-4B1C-3B3F-857A-A56EBF6A4784}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.Playables.PlayableDirector" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{536F6661-4B1C-3B3F-857A-A56EBF6A4784}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.DirectorModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -13622,13 +13622,13 @@
                 <RegistryValue Root="HKCR" Key="CLSID\{536F6661-4B1C-3B3F-857A-A56EBF6A4784}\InprocServer32" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{536F6661-4B1C-3B3F-857A-A56EBF6A4784}\InprocServer32" Name="CodeBase" Value="file:///[#fil509E6C550B6F6C26421D63995080B6CE]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmp279AAEB96781742A4BB5068335AA7AFF" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{24FE4F83-F5D8-40FC-B5D6-5020C25C2130}">
-                <File Id="fil56C314F958871A487134875345A58904" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.dll" />
+            <Component Id="cmp279AAEB96781742A4BB5068335AA7AFF" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{5282BC15-9178-4517-BF5B-BC35E6987F56}">
+                <File Id="fil56C314F958871A487134875345A58904" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.dll" />
             </Component>
-            <Component Id="cmp45065DC8C255169090E9620E15860DCC" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{0D36E60C-0A6B-4D76-8BF2-2BCAC3D70725}">
-                <File Id="filD5570318816590992FA615B5887BE1D7" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.DSPGraphModule.dll" />
+            <Component Id="cmp45065DC8C255169090E9620E15860DCC" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{046D8FE0-8870-4347-B283-1162779365D4}">
+                <File Id="filD5570318816590992FA615B5887BE1D7" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.DSPGraphModule.dll" />
             </Component>
-            <Component Id="cmpC2BD038850682BE3362045EC99BBB4E3" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{DED01112-7B4B-42B1-9ED1-B44BCC3C83BC}">
+            <Component Id="cmpC2BD038850682BE3362045EC99BBB4E3" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{1AF2453F-EC3F-41E9-A505-5F1D1DB2E37B}">
                 <Class Id="{23E19837-2D2D-39AA-9819-24DC3C2810D5}" Context="InprocServer32" Description="UnityEngine.SocialPlatforms.Impl.Achievement" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.SocialPlatforms.Impl.Achievement" Description="UnityEngine.SocialPlatforms.Impl.Achievement" />
                 </Class>
@@ -13647,7 +13647,7 @@
                 <Class Id="{C9FA1B37-CC70-3AB2-BFF2-9FC70349D53A}" Context="InprocServer32" Description="UnityEngine.SocialPlatforms.Impl.Score" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.SocialPlatforms.Impl.Score" Description="UnityEngine.SocialPlatforms.Impl.Score" />
                 </Class>
-                <File Id="fil991D2087B736E98AB98D0F4DD42B253B" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.GameCenterModule.dll" />
+                <File Id="fil991D2087B736E98AB98D0F4DD42B253B" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.GameCenterModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{23E19837-2D2D-39AA-9819-24DC3C2810D5}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{23E19837-2D2D-39AA-9819-24DC3C2810D5}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.SocialPlatforms.Impl.Achievement" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{23E19837-2D2D-39AA-9819-24DC3C2810D5}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.GameCenterModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -13719,17 +13719,17 @@
                 <RegistryValue Root="HKCR" Key="Record\{F788EC5A-964F-303F-BBF4-FEAA93896992}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{F788EC5A-964F-303F-BBF4-FEAA93896992}\0.0.0.0" Name="CodeBase" Value="file:///[#fil991D2087B736E98AB98D0F4DD42B253B]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmpC2E3BD2EF3FC8D3E72E7087FECD6F058" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{9D52C410-6DEB-4021-A18D-528396AAD0A4}">
-                <File Id="fil88DAAA32A9EFCB7D684BD2A0BD8AFC7D" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.GIModule.dll" />
+            <Component Id="cmpC2E3BD2EF3FC8D3E72E7087FECD6F058" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{53FDDC12-EF6B-418D-B489-F6693F8D57A6}">
+                <File Id="fil88DAAA32A9EFCB7D684BD2A0BD8AFC7D" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.GIModule.dll" />
             </Component>
-            <Component Id="cmpA9D62CD1771380E90EA818AE3EB1008E" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{F8149332-4AC3-4BA5-AC8A-F46EFAF23CA6}">
+            <Component Id="cmpA9D62CD1771380E90EA818AE3EB1008E" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{8F22A15F-8D8D-449A-93BE-F44F51958183}">
                 <Class Id="{037FB0D4-FB37-30B7-9482-80F653FCEF39}" Context="InprocServer32" Description="UnityEngine.Grid" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.Grid" Description="UnityEngine.Grid" />
                 </Class>
                 <Class Id="{EF8290C0-B4E1-31C3-9A54-EC11F1020E33}" Context="InprocServer32" Description="UnityEngine.GridLayout" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.GridLayout" Description="UnityEngine.GridLayout" />
                 </Class>
-                <File Id="filD7BCCC37B581EB76E3837364627BD88B" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.GridModule.dll" />
+                <File Id="filD7BCCC37B581EB76E3837364627BD88B" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.GridModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{037FB0D4-FB37-30B7-9482-80F653FCEF39}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{037FB0D4-FB37-30B7-9482-80F653FCEF39}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.Grid" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{037FB0D4-FB37-30B7-9482-80F653FCEF39}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.GridModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -13757,13 +13757,13 @@
                 <RegistryValue Root="HKCR" Key="Record\{FFC8DDCE-F0F3-3D92-BFDA-6720D8927B55}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{FFC8DDCE-F0F3-3D92-BFDA-6720D8927B55}\0.0.0.0" Name="CodeBase" Value="file:///[#filD7BCCC37B581EB76E3837364627BD88B]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmp558E0FBBD54F350467AAD9EB09C11A3E" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{42238696-415C-48AF-99BE-1C78847CE954}">
-                <File Id="fil82FC955713E6BAF17F6E6534919B7900" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.HotReloadModule.dll" />
+            <Component Id="cmp558E0FBBD54F350467AAD9EB09C11A3E" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{5C0A1186-ABB9-4D0B-A5F5-67725DD58E33}">
+                <File Id="fil82FC955713E6BAF17F6E6534919B7900" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.HotReloadModule.dll" />
             </Component>
-            <Component Id="cmp6E5A7442DE60106E124B9EC5EBE76D79" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{6393E468-69AB-454D-96AD-3888FBF24412}">
-                <File Id="filBC08FE529D6770BCF24E41EE79337821" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.ImageConversionModule.dll" />
+            <Component Id="cmp6E5A7442DE60106E124B9EC5EBE76D79" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{6B09BC5B-9087-48E4-8459-DD2F74605268}">
+                <File Id="filBC08FE529D6770BCF24E41EE79337821" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.ImageConversionModule.dll" />
             </Component>
-            <Component Id="cmpF51C1BDDA6DB66E97136E9EF0D390413" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{1EF16F16-C601-4457-BC16-86381B9ADE7E}">
+            <Component Id="cmpF51C1BDDA6DB66E97136E9EF0D390413" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{1229D678-1577-48C6-9A04-6A334438D5B1}">
                 <Class Id="{0A50E6AC-6A9A-3B7E-8C73-9CBFD7EB8272}" Context="InprocServer32" Description="UnityEngine.GUI" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.GUI" Description="UnityEngine.GUI" />
                 </Class>
@@ -13812,7 +13812,7 @@
                 <Class Id="{E293BDF9-B323-3771-873A-D4784FAAEC60}" Context="InprocServer32" Description="UnityEngine.GUILayout" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.GUILayout" Description="UnityEngine.GUILayout" />
                 </Class>
-                <File Id="fil009C413203BC15FAD66827D6490F74F2" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.IMGUIModule.dll" />
+                <File Id="fil009C413203BC15FAD66827D6490F74F2" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.IMGUIModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{0A50E6AC-6A9A-3B7E-8C73-9CBFD7EB8272}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{0A50E6AC-6A9A-3B7E-8C73-9CBFD7EB8272}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.GUI" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{0A50E6AC-6A9A-3B7E-8C73-9CBFD7EB8272}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.IMGUIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -13994,7 +13994,7 @@
                 <RegistryValue Root="HKCR" Key="Record\{EDCE6DB9-2F7A-3379-9E92-AB9C6CF45E7E}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{EDCE6DB9-2F7A-3379-9E92-AB9C6CF45E7E}\0.0.0.0" Name="CodeBase" Value="file:///[#fil009C413203BC15FAD66827D6490F74F2]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmpDBCB949933E03740B0A32A8160518B82" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{2F605116-96B9-4DA4-BC0D-66A9F429D49B}">
+            <Component Id="cmpDBCB949933E03740B0A32A8160518B82" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{24493F1C-6FA4-48E0-8BA6-DC05BEE885BD}">
                 <Class Id="{59622C13-2D9D-35E8-A13F-EF37CE4B6EC2}" Context="InprocServer32" Description="UnityEngine.Compass" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.Compass" Description="UnityEngine.Compass" />
                 </Class>
@@ -14004,7 +14004,7 @@
                 <Class Id="{92BAF878-460E-31D1-8FD7-03130D7A292C}" Context="InprocServer32" Description="UnityEngine.LocationService" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.LocationService" Description="UnityEngine.LocationService" />
                 </Class>
-                <File Id="filB92D503564B210C07DA2E7D935E63B49" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.InputLegacyModule.dll" />
+                <File Id="filB92D503564B210C07DA2E7D935E63B49" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.InputLegacyModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{59622C13-2D9D-35E8-A13F-EF37CE4B6EC2}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{59622C13-2D9D-35E8-A13F-EF37CE4B6EC2}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.Compass" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{59622C13-2D9D-35E8-A13F-EF37CE4B6EC2}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.InputLegacyModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -14065,17 +14065,17 @@
                 <RegistryValue Root="HKCR" Key="Record\{F62817E8-7CB2-3ABC-8C83-EEBAFC54DD7F}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{F62817E8-7CB2-3ABC-8C83-EEBAFC54DD7F}\0.0.0.0" Name="CodeBase" Value="file:///[#filB92D503564B210C07DA2E7D935E63B49]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmp29E8B0AFC69B3204665DD841385CCA67" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{CCEDB97D-57A3-499F-9A9C-2B3F18E236C2}">
-                <File Id="fil8CBE2F459DF7CEC09543F400D7CDE01C" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.InputModule.dll" />
+            <Component Id="cmp29E8B0AFC69B3204665DD841385CCA67" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{9A19AA87-416D-4E3C-BD35-A3A132312577}">
+                <File Id="fil8CBE2F459DF7CEC09543F400D7CDE01C" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.InputModule.dll" />
             </Component>
-            <Component Id="cmp1487477F04FB9DE5270F8F65352E1F08" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{DCF34D5B-858A-40AE-9147-645D7EB0A345}">
-                <File Id="filA96830ADB3FDF0DE7D6930852F554272" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.JSONSerializeModule.dll" />
+            <Component Id="cmp1487477F04FB9DE5270F8F65352E1F08" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{7A9B167A-A32C-496E-8FC2-A526250C65E2}">
+                <File Id="filA96830ADB3FDF0DE7D6930852F554272" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.JSONSerializeModule.dll" />
             </Component>
-            <Component Id="cmp97CF5920C932AB8599F7137BE37692E4" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{99631AE1-3D96-4D9A-844C-FAB617ADAEC9}">
+            <Component Id="cmp97CF5920C932AB8599F7137BE37692E4" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{D54185A8-3A95-4630-9AFF-3923E20783E2}">
                 <Class Id="{9DD1A55A-0A06-3122-8FBD-3D51545FF419}" Context="InprocServer32" Description="UnityEngine.LocalizationAsset" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.LocalizationAsset" Description="UnityEngine.LocalizationAsset" />
                 </Class>
-                <File Id="fil7B91EFE2074A719D244F7EDE6186AFF7" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.LocalizationModule.dll" />
+                <File Id="fil7B91EFE2074A719D244F7EDE6186AFF7" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.LocalizationModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{9DD1A55A-0A06-3122-8FBD-3D51545FF419}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{9DD1A55A-0A06-3122-8FBD-3D51545FF419}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.LocalizationAsset" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{9DD1A55A-0A06-3122-8FBD-3D51545FF419}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.LocalizationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -14086,8 +14086,8 @@
                 <RegistryValue Root="HKCR" Key="CLSID\{9DD1A55A-0A06-3122-8FBD-3D51545FF419}\InprocServer32" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{9DD1A55A-0A06-3122-8FBD-3D51545FF419}\InprocServer32" Name="CodeBase" Value="file:///[#fil7B91EFE2074A719D244F7EDE6186AFF7]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmp3CADAC83E6E78A303B91339B18182E84" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{FD28C3F0-434F-4265-B67A-385E4477133F}">
-                <File Id="fil142D7BA3708D20B52CF4FC05811CEEEA" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.NVIDIAModule.dll" />
+            <Component Id="cmp3CADAC83E6E78A303B91339B18182E84" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{1C6BC71F-DEE1-409B-BF00-1E922A500DAC}">
+                <File Id="fil142D7BA3708D20B52CF4FC05811CEEEA" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.NVIDIAModule.dll" />
                 <RegistryValue Root="HKCR" Key="Record\{157C9789-256A-392D-9BB6-3397C3753C25}\0.0.0.0" Name="Class" Value="UnityEngine.NVIDIA.DLSSCommandExecutionData" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{157C9789-256A-392D-9BB6-3397C3753C25}\0.0.0.0" Name="Assembly" Value="UnityEngine.NVIDIAModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{157C9789-256A-392D-9BB6-3397C3753C25}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
@@ -14121,7 +14121,7 @@
                 <RegistryValue Root="HKCR" Key="Record\{D41FFB28-FE26-3A8F-A3C7-E1BC65066692}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{D41FFB28-FE26-3A8F-A3C7-E1BC65066692}\0.0.0.0" Name="CodeBase" Value="file:///[#fil142D7BA3708D20B52CF4FC05811CEEEA]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmp78D65A9CAB87CB98EAE37D6EAA7D89D2" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{C4DCD336-2D0B-42E0-BD32-AE9D41B90873}">
+            <Component Id="cmp78D65A9CAB87CB98EAE37D6EAA7D89D2" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{7BB1952E-C0E1-49EE-B300-6165EFAECB4D}">
                 <Class Id="{0314D4D7-83BD-3335-935E-EF5933E675BD}" Context="InprocServer32" Description="UnityEngine.ParticleSystemForceField" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.ParticleSystemForceField" Description="UnityEngine.ParticleSystemForceField" />
                 </Class>
@@ -14131,7 +14131,7 @@
                 <Class Id="{4105D8F2-D1CF-30DE-AD9A-5FA2712B1A8A}" Context="InprocServer32" Description="UnityEngine.ParticleSystem" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.ParticleSystem" Description="UnityEngine.ParticleSystem" />
                 </Class>
-                <File Id="filAEF155E7B6BF14FEE13D6EE987E18AF9" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.ParticleSystemModule.dll" />
+                <File Id="filAEF155E7B6BF14FEE13D6EE987E18AF9" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.ParticleSystemModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{0314D4D7-83BD-3335-935E-EF5933E675BD}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{0314D4D7-83BD-3335-935E-EF5933E675BD}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.ParticleSystemForceField" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{0314D4D7-83BD-3335-935E-EF5933E675BD}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -14464,10 +14464,10 @@
                 <RegistryValue Root="HKCR" Key="Record\{FD08A83B-21A6-3896-8C04-07352760A023}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{FD08A83B-21A6-3896-8C04-07352760A023}\0.0.0.0" Name="CodeBase" Value="file:///[#filAEF155E7B6BF14FEE13D6EE987E18AF9]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmp4BCDFE78CB650145706848B94ED902E7" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{75BA62F3-00DC-42C4-ADC7-6133CF93E983}">
-                <File Id="fil27353F905F16C1C63B30D9B43D232BCE" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.PerformanceReportingModule.dll" />
+            <Component Id="cmp4BCDFE78CB650145706848B94ED902E7" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{C5B63326-57D9-4CB3-90FA-DA5B5ACC7822}">
+                <File Id="fil27353F905F16C1C63B30D9B43D232BCE" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.PerformanceReportingModule.dll" />
             </Component>
-            <Component Id="cmp1209D49196D7AFE76B61C1E48297BACF" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{2B8994AA-DCB6-47D6-B4DE-E240DDD5F363}">
+            <Component Id="cmp1209D49196D7AFE76B61C1E48297BACF" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{C30B4C85-0F46-4AE8-BB89-20F2ED8DD6F3}">
                 <Class Id="{00EF4605-193A-3B1E-8A82-C88CC3707F2B}" Context="InprocServer32" Description="UnityEngine.AreaEffector2D" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.AreaEffector2D" Description="UnityEngine.AreaEffector2D" />
                 </Class>
@@ -14561,7 +14561,7 @@
                 <Class Id="{F79C8870-B942-3212-8189-1E2868F414E6}" Context="InprocServer32" Description="UnityEngine.BoxCollider2D" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.BoxCollider2D" Description="UnityEngine.BoxCollider2D" />
                 </Class>
-                <File Id="fil92B07EC5A41290AA4CC313E4F08C7CDB" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.Physics2DModule.dll" />
+                <File Id="fil92B07EC5A41290AA4CC313E4F08C7CDB" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.Physics2DModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{00EF4605-193A-3B1E-8A82-C88CC3707F2B}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{00EF4605-193A-3B1E-8A82-C88CC3707F2B}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.AreaEffector2D" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{00EF4605-193A-3B1E-8A82-C88CC3707F2B}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -14946,7 +14946,7 @@
                 <RegistryValue Root="HKCR" Key="Record\{F6DA9514-AA52-3197-92C5-1565F7B62468}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{F6DA9514-AA52-3197-92C5-1565F7B62468}\0.0.0.0" Name="CodeBase" Value="file:///[#fil92B07EC5A41290AA4CC313E4F08C7CDB]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmp054ACBC0ADCEAB6AFEB93DCF3A429729" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{06BF3D21-F3FD-4320-B5C7-EDBE6EB974C9}">
+            <Component Id="cmp054ACBC0ADCEAB6AFEB93DCF3A429729" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{0B52902C-325B-4295-B735-EB8F60D8F7A4}">
                 <Class Id="{09D82A17-8FC1-343E-B9A9-2599E08F075B}" Context="InprocServer32" Description="UnityEngine.CharacterController" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.CharacterController" Description="UnityEngine.CharacterController" />
                 </Class>
@@ -15004,7 +15004,7 @@
                 <Class Id="{FC3D0A4D-34A3-3CC3-951A-B3496EC2666F}" Context="InprocServer32" Description="UnityEngine.Physics" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.Physics" Description="UnityEngine.Physics" />
                 </Class>
-                <File Id="filCC613DF32FEAA2F7B072682C7386D71F" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.PhysicsModule.dll" />
+                <File Id="filCC613DF32FEAA2F7B072682C7386D71F" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.PhysicsModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{09D82A17-8FC1-343E-B9A9-2599E08F075B}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{09D82A17-8FC1-343E-B9A9-2599E08F075B}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.CharacterController" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{09D82A17-8FC1-343E-B9A9-2599E08F075B}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -15313,27 +15313,27 @@
                 <RegistryValue Root="HKCR" Key="Record\{F5FB3385-05C4-30C9-9115-55CB9AD3B21F}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{F5FB3385-05C4-30C9-9115-55CB9AD3B21F}\0.0.0.0" Name="CodeBase" Value="file:///[#filCC613DF32FEAA2F7B072682C7386D71F]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmp2056EB4D1443F93EA2B66209204A1B95" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{1B2DABAD-5864-4889-9243-7054DBA1A8BD}">
-                <File Id="fil5545B6BE11CE3250511B9ECBB3CAC7B5" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.ProfilerModule.dll" />
+            <Component Id="cmp2056EB4D1443F93EA2B66209204A1B95" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{7540BE3A-E8B6-4D76-9C85-C8CA3DA1B90B}">
+                <File Id="fil5545B6BE11CE3250511B9ECBB3CAC7B5" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.ProfilerModule.dll" />
             </Component>
-            <Component Id="cmp1809DEA8124144140B836BF82F34028B" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{E3A4332B-7C29-4CCB-843A-150A5759EC5C}">
-                <File Id="filEB3B1C668AD857E1F57179D160C531C2" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" />
+            <Component Id="cmp1809DEA8124144140B836BF82F34028B" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{6DD6F5DE-A096-4C0A-8670-844924C077A3}">
+                <File Id="filEB3B1C668AD857E1F57179D160C531C2" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" />
             </Component>
-            <Component Id="cmp2262A237E29C1448F38F1B3898367441" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{31D6FC6E-00B9-40E5-B633-655B2A525BA4}">
-                <File Id="fil7B2A82B16D7DFA95E142BAE1C0ABBF11" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.ScreenCaptureModule.dll" />
+            <Component Id="cmp2262A237E29C1448F38F1B3898367441" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{1FC55435-1259-4C97-A6AA-258C9F317833}">
+                <File Id="fil7B2A82B16D7DFA95E142BAE1C0ABBF11" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.ScreenCaptureModule.dll" />
                 <RegistryValue Root="HKCR" Key="Record\{02AB6C01-9A31-3D2B-A25A-85087FB26BED}\0.0.0.0" Name="Class" Value="UnityEngine.ScreenCapture+StereoScreenCaptureMode" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{02AB6C01-9A31-3D2B-A25A-85087FB26BED}\0.0.0.0" Name="Assembly" Value="UnityEngine.ScreenCaptureModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{02AB6C01-9A31-3D2B-A25A-85087FB26BED}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{02AB6C01-9A31-3D2B-A25A-85087FB26BED}\0.0.0.0" Name="CodeBase" Value="file:///[#fil7B2A82B16D7DFA95E142BAE1C0ABBF11]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmpB5545DFB8EA188600FD94EF1A3C528B1" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{E3D3DD5B-C1A4-4592-AB0C-6A829D7F8E26}">
-                <File Id="fil2613661DD03075DE100E7255C1F5E2A2" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.SharedInternalsModule.dll" />
+            <Component Id="cmpB5545DFB8EA188600FD94EF1A3C528B1" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{27D294E5-E778-47DB-96A7-C148E9AAFD32}">
+                <File Id="fil2613661DD03075DE100E7255C1F5E2A2" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.SharedInternalsModule.dll" />
             </Component>
-            <Component Id="cmp7F40E49C974BC88CCB3461A7286EBB6E" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{F569D067-F757-46FD-AEBC-6C3F4F710B83}">
+            <Component Id="cmp7F40E49C974BC88CCB3461A7286EBB6E" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{F239E106-11CA-41FA-972B-4B1BFD2CCCAF}">
                 <Class Id="{F335DDEC-CC4F-335F-8C5A-1801095987E1}" Context="InprocServer32" Description="UnityEngine.SpriteMask" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.SpriteMask" Description="UnityEngine.SpriteMask" />
                 </Class>
-                <File Id="fil040D6A08A0021ECC6DF534E275A1AF80" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.SpriteMaskModule.dll" />
+                <File Id="fil040D6A08A0021ECC6DF534E275A1AF80" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.SpriteMaskModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{F335DDEC-CC4F-335F-8C5A-1801095987E1}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{F335DDEC-CC4F-335F-8C5A-1801095987E1}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.SpriteMask" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{F335DDEC-CC4F-335F-8C5A-1801095987E1}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.SpriteMaskModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -15344,14 +15344,14 @@
                 <RegistryValue Root="HKCR" Key="CLSID\{F335DDEC-CC4F-335F-8C5A-1801095987E1}\InprocServer32" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{F335DDEC-CC4F-335F-8C5A-1801095987E1}\InprocServer32" Name="CodeBase" Value="file:///[#fil040D6A08A0021ECC6DF534E275A1AF80]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmp38BD3C861B9301670A3F4BD85A8C8D19" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{FDD6009F-872E-47A2-A404-F2A2AEBE2D93}">
+            <Component Id="cmp38BD3C861B9301670A3F4BD85A8C8D19" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{9EA57601-5F02-479E-B9DC-45E49D76BB7D}">
                 <Class Id="{09E178A5-D1CE-3447-B357-F78D699BF566}" Context="InprocServer32" Description="UnityEngine.U2D.SpriteShapeRenderer" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.U2D.SpriteShapeRenderer" Description="UnityEngine.U2D.SpriteShapeRenderer" />
                 </Class>
                 <Class Id="{6DF4EAD2-9474-31CF-9D69-F2AFE614ACA9}" Context="InprocServer32" Description="UnityEngine.U2D.SpriteShapeUtility" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.U2D.SpriteShapeUtility" Description="UnityEngine.U2D.SpriteShapeUtility" />
                 </Class>
-                <File Id="fil61A8831FD8AF7B71CE1AE0277DC2773F" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.SpriteShapeModule.dll" />
+                <File Id="fil61A8831FD8AF7B71CE1AE0277DC2773F" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.SpriteShapeModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{09E178A5-D1CE-3447-B357-F78D699BF566}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{09E178A5-D1CE-3447-B357-F78D699BF566}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.U2D.SpriteShapeRenderer" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{09E178A5-D1CE-3447-B357-F78D699BF566}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.SpriteShapeModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -15391,11 +15391,11 @@
                 <RegistryValue Root="HKCR" Key="Record\{C2C5CD51-6EB2-3CEC-B22E-E7F0A2D71E58}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{C2C5CD51-6EB2-3CEC-B22E-E7F0A2D71E58}\0.0.0.0" Name="CodeBase" Value="file:///[#fil61A8831FD8AF7B71CE1AE0277DC2773F]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmpA3536C778466A85F078A230A77D8E94B" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{C01B9A57-1E97-4D2A-952B-CD90EEEEF7DA}">
+            <Component Id="cmpA3536C778466A85F078A230A77D8E94B" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{DD47E1CC-E8B9-4ADA-97F0-D8F3E0CD7082}">
                 <Class Id="{EE1F2AB3-A233-3D3C-9926-92F88971E16A}" Context="InprocServer32" Description="UnityEngine.StreamingController" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.StreamingController" Description="UnityEngine.StreamingController" />
                 </Class>
-                <File Id="fil4E70801838D48677631A54308853E429" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.StreamingModule.dll" />
+                <File Id="fil4E70801838D48677631A54308853E429" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.StreamingModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{EE1F2AB3-A233-3D3C-9926-92F88971E16A}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{EE1F2AB3-A233-3D3C-9926-92F88971E16A}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.StreamingController" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{EE1F2AB3-A233-3D3C-9926-92F88971E16A}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.StreamingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -15406,11 +15406,11 @@
                 <RegistryValue Root="HKCR" Key="CLSID\{EE1F2AB3-A233-3D3C-9926-92F88971E16A}\InprocServer32" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{EE1F2AB3-A233-3D3C-9926-92F88971E16A}\InprocServer32" Name="CodeBase" Value="file:///[#fil4E70801838D48677631A54308853E429]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmp296949CBA818D010418F94BFE2F68F66" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{31E1E616-4D80-4158-835C-A22ED16B72E5}">
+            <Component Id="cmp296949CBA818D010418F94BFE2F68F66" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{458D5F07-AEB4-42DB-973E-9810572B4D9F}">
                 <Class Id="{665F87E5-CE6B-336E-B246-98B4B3EA63EC}" Context="InprocServer32" Description="UnityEngine.ProceduralPropertyDescription" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.ProceduralPropertyDescription" Description="UnityEngine.ProceduralPropertyDescription" />
                 </Class>
-                <File Id="fil9840C6CCF6640745169F8D6921D99D28" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.SubstanceModule.dll" />
+                <File Id="fil9840C6CCF6640745169F8D6921D99D28" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.SubstanceModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{665F87E5-CE6B-336E-B246-98B4B3EA63EC}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{665F87E5-CE6B-336E-B246-98B4B3EA63EC}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.ProceduralPropertyDescription" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{665F87E5-CE6B-336E-B246-98B4B3EA63EC}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.SubstanceModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -15441,7 +15441,7 @@
                 <RegistryValue Root="HKCR" Key="Record\{9519E04B-AE54-30D9-A87D-F55F50E8AB62}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{9519E04B-AE54-30D9-A87D-F55F50E8AB62}\0.0.0.0" Name="CodeBase" Value="file:///[#fil9840C6CCF6640745169F8D6921D99D28]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmpADD5D71651D6F0C4F27E3C65A3404809" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{46399AB8-ED87-4C52-9FA6-82EEE95E7DC2}">
+            <Component Id="cmpADD5D71651D6F0C4F27E3C65A3404809" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{F24D960F-6507-41FA-9E50-029081809908}">
                 <Class Id="{33E00C76-DFF5-3645-B3E3-104E5148D2DA}" Context="InprocServer32" Description="UnityEngine.Subsystems.ExampleSubsystemDescriptor" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.Subsystems.ExampleSubsystemDescriptor" Description="UnityEngine.Subsystems.ExampleSubsystemDescriptor" />
                 </Class>
@@ -15451,7 +15451,7 @@
                 <Class Id="{AC96BDAA-7D66-33DE-A533-119CC9DDE412}" Context="InprocServer32" Description="UnityEngine.Subsystems.ExampleSubsystem" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.Subsystems.ExampleSubsystem" Description="UnityEngine.Subsystems.ExampleSubsystem" />
                 </Class>
-                <File Id="fil10F0EA86B1D76E600B7D649C6F35BE81" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.SubsystemsModule.dll" />
+                <File Id="fil10F0EA86B1D76E600B7D649C6F35BE81" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.SubsystemsModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{33E00C76-DFF5-3645-B3E3-104E5148D2DA}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{33E00C76-DFF5-3645-B3E3-104E5148D2DA}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.Subsystems.ExampleSubsystemDescriptor" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{33E00C76-DFF5-3645-B3E3-104E5148D2DA}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.SubsystemsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -15480,7 +15480,7 @@
                 <RegistryValue Root="HKCR" Key="CLSID\{AC96BDAA-7D66-33DE-A533-119CC9DDE412}\InprocServer32" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{AC96BDAA-7D66-33DE-A533-119CC9DDE412}\InprocServer32" Name="CodeBase" Value="file:///[#fil10F0EA86B1D76E600B7D649C6F35BE81]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmp96CD65D886414B84BF893FAEFAC04CA7" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{E84BA4ED-9146-4F0D-AC22-1E10F29C08DA}">
+            <Component Id="cmp96CD65D886414B84BF893FAEFAC04CA7" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{9951A80A-60F0-4D51-A96D-3F3BD7CF28D5}">
                 <Class Id="{3B0CF055-40C0-366A-BB31-CE4C3DA13F0D}" Context="InprocServer32" Description="UnityEngine.TerrainLayer" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.TerrainLayer" Description="UnityEngine.TerrainLayer" />
                 </Class>
@@ -15505,7 +15505,7 @@
                 <Class Id="{EBC369DF-41F2-3F38-B94C-DB0E386971C1}" Context="InprocServer32" Description="UnityEngine.TerrainUtils.TerrainMap" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.TerrainUtils.TerrainMap" Description="UnityEngine.TerrainUtils.TerrainMap" />
                 </Class>
-                <File Id="fil454087D1AB3854A957E8E80DF99BC6E6" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.TerrainModule.dll" />
+                <File Id="fil454087D1AB3854A957E8E80DF99BC6E6" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.TerrainModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{3B0CF055-40C0-366A-BB31-CE4C3DA13F0D}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{3B0CF055-40C0-366A-BB31-CE4C3DA13F0D}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.TerrainLayer" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{3B0CF055-40C0-366A-BB31-CE4C3DA13F0D}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.TerrainModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -15623,11 +15623,11 @@
                 <RegistryValue Root="HKCR" Key="Record\{FCE874DA-0CF7-30C0-8C6A-DC95772025EC}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{FCE874DA-0CF7-30C0-8C6A-DC95772025EC}\0.0.0.0" Name="CodeBase" Value="file:///[#fil454087D1AB3854A957E8E80DF99BC6E6]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmp96B06A0B89F51F3873F4677AF70160AE" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{53482BC6-93C3-498C-82AD-441BA2EEAFEC}">
+            <Component Id="cmp96B06A0B89F51F3873F4677AF70160AE" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{B05608CC-CFCA-43CB-90BA-BD7316ECD3F1}">
                 <Class Id="{53C0A6CF-ACEB-38BA-A9A0-8B223966E4B0}" Context="InprocServer32" Description="UnityEngine.TerrainCollider" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.TerrainCollider" Description="UnityEngine.TerrainCollider" />
                 </Class>
-                <File Id="filB353B2AB2757C8683A81BE8343816FC5" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.TerrainPhysicsModule.dll" />
+                <File Id="filB353B2AB2757C8683A81BE8343816FC5" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.TerrainPhysicsModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{53C0A6CF-ACEB-38BA-A9A0-8B223966E4B0}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{53C0A6CF-ACEB-38BA-A9A0-8B223966E4B0}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.TerrainCollider" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{53C0A6CF-ACEB-38BA-A9A0-8B223966E4B0}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.TerrainPhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -15638,11 +15638,11 @@
                 <RegistryValue Root="HKCR" Key="CLSID\{53C0A6CF-ACEB-38BA-A9A0-8B223966E4B0}\InprocServer32" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{53C0A6CF-ACEB-38BA-A9A0-8B223966E4B0}\InprocServer32" Name="CodeBase" Value="file:///[#filB353B2AB2757C8683A81BE8343816FC5]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmp062C56CC118D3AF73A3F8F6A92F151FD" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{C4A8232B-77CD-4724-BFD9-F9880450A152}">
+            <Component Id="cmp062C56CC118D3AF73A3F8F6A92F151FD" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{D3294F1A-F740-41F4-8A0A-8C0D99C0E2A4}">
                 <Class Id="{1B264825-3577-3153-8C77-AF1C3D44F4A5}" Context="InprocServer32" Description="UnityEngine.TextCore.Glyph" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.TextCore.Glyph" Description="UnityEngine.TextCore.Glyph" />
                 </Class>
-                <File Id="fil3681BF0A4A07616EE798DAF809E614BF" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.TextCoreFontEngineModule.dll" />
+                <File Id="fil3681BF0A4A07616EE798DAF809E614BF" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.TextCoreFontEngineModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{1B264825-3577-3153-8C77-AF1C3D44F4A5}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{1B264825-3577-3153-8C77-AF1C3D44F4A5}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.TextCore.Glyph" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{1B264825-3577-3153-8C77-AF1C3D44F4A5}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.TextCoreFontEngineModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -15701,7 +15701,7 @@
                 <RegistryValue Root="HKCR" Key="Record\{EFA4C798-2EB6-3E9B-9D49-77FFE3B01E55}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{EFA4C798-2EB6-3E9B-9D49-77FFE3B01E55}\0.0.0.0" Name="CodeBase" Value="file:///[#fil3681BF0A4A07616EE798DAF809E614BF]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmpE317635B7B6C29E899A832451496CF58" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{E08B1C82-807E-4781-A65C-576BA9DC3BBA}">
+            <Component Id="cmpE317635B7B6C29E899A832451496CF58" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{1BD1F8F4-4AF1-4AB7-83EA-B20B651CB246}">
                 <Class Id="{020938F2-0603-3B83-8AFC-8DE5286DF345}" Context="InprocServer32" Description="UnityEngine.TextCore.Text.SpriteAsset" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.TextCore.Text.SpriteAsset" Description="UnityEngine.TextCore.Text.SpriteAsset" />
                 </Class>
@@ -15735,7 +15735,7 @@
                 <Class Id="{FD8E788B-777D-32E0-A679-69A5B68C932D}" Context="InprocServer32" Description="UnityEngine.TextCore.Text.SpriteCharacter" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.TextCore.Text.SpriteCharacter" Description="UnityEngine.TextCore.Text.SpriteCharacter" />
                 </Class>
-                <File Id="fil1ABD7849C8B12EBE3EA7C83D85199A67" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.TextCoreTextEngineModule.dll" />
+                <File Id="fil1ABD7849C8B12EBE3EA7C83D85199A67" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.TextCoreTextEngineModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{020938F2-0603-3B83-8AFC-8DE5286DF345}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{020938F2-0603-3B83-8AFC-8DE5286DF345}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.TextCore.Text.SpriteAsset" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{020938F2-0603-3B83-8AFC-8DE5286DF345}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.TextCoreTextEngineModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -15864,7 +15864,7 @@
                 <RegistryValue Root="HKCR" Key="Record\{6EABC219-0978-3C25-BF3F-CA4EC5F5F9E8}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{6EABC219-0978-3C25-BF3F-CA4EC5F5F9E8}\0.0.0.0" Name="CodeBase" Value="file:///[#fil1ABD7849C8B12EBE3EA7C83D85199A67]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmp4F21013565051F2111CB379848FCD8F2" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{5F9AA873-BB17-4EEF-B250-692F32C4C915}">
+            <Component Id="cmp4F21013565051F2111CB379848FCD8F2" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{2E751C67-893A-4E66-8874-CAEB6FD53F7E}">
                 <Class Id="{668326E5-3802-3F87-9D33-3D4390E30AAC}" Context="InprocServer32" Description="UnityEngine.TextGenerator" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.TextGenerator" Description="UnityEngine.TextGenerator" />
                 </Class>
@@ -15877,7 +15877,7 @@
                 <Class Id="{F448BD67-6960-38A8-A8FF-D8BFC5033696}" Context="InprocServer32" Description="UnityEngine.GUIText" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.GUIText" Description="UnityEngine.GUIText" />
                 </Class>
-                <File Id="fil1301F9A41005F483B56BFD1A88E65C03" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.TextRenderingModule.dll" />
+                <File Id="fil1301F9A41005F483B56BFD1A88E65C03" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.TextRenderingModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{668326E5-3802-3F87-9D33-3D4390E30AAC}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{668326E5-3802-3F87-9D33-3D4390E30AAC}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.TextGenerator" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{668326E5-3802-3F87-9D33-3D4390E30AAC}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -15955,7 +15955,7 @@
                 <RegistryValue Root="HKCR" Key="Record\{CE2CC662-147F-3466-B4D2-C55E344D7930}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{CE2CC662-147F-3466-B4D2-C55E344D7930}\0.0.0.0" Name="CodeBase" Value="file:///[#fil1301F9A41005F483B56BFD1A88E65C03]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmp1E64256F47A253457072D4A2D0CE4568" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{2A30A328-8695-427A-AAC2-9916D6816193}">
+            <Component Id="cmp1E64256F47A253457072D4A2D0CE4568" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{E14AD183-2028-4D9C-9227-1FEEC028514B}">
                 <Class Id="{08FFB300-7CAC-3129-99B4-DC3F9BB816C1}" Context="InprocServer32" Description="UnityEngine.CustomGridBrushAttribute" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.CustomGridBrushAttribute" Description="UnityEngine.CustomGridBrushAttribute" />
                 </Class>
@@ -15971,7 +15971,7 @@
                 <Class Id="{96491A63-66D2-39CA-AD1B-7E278310C5FE}" Context="InprocServer32" Description="UnityEngine.Tilemaps.TilemapCollider2D" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.Tilemaps.TilemapCollider2D" Description="UnityEngine.Tilemaps.TilemapCollider2D" />
                 </Class>
-                <File Id="fil69E4A27B05D6E252ABFB40CC84307EC5" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.TilemapModule.dll" />
+                <File Id="fil69E4A27B05D6E252ABFB40CC84307EC5" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.TilemapModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{08FFB300-7CAC-3129-99B4-DC3F9BB816C1}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{08FFB300-7CAC-3129-99B4-DC3F9BB816C1}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.CustomGridBrushAttribute" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{08FFB300-7CAC-3129-99B4-DC3F9BB816C1}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.TilemapModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -16066,13 +16066,13 @@
                 <RegistryValue Root="HKCR" Key="Record\{EBAD4246-562D-33F7-AF41-5338CAC39B56}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{EBAD4246-562D-33F7-AF41-5338CAC39B56}\0.0.0.0" Name="CodeBase" Value="file:///[#fil69E4A27B05D6E252ABFB40CC84307EC5]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmp3375D208FBA2F2D76672287131429A6A" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{6839DCFE-1B46-4E86-89A7-888F5BD8A70D}">
-                <File Id="fil47CAB06F4BFFCC6F4774FF1C242BCDAB" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.TLSModule.dll" />
+            <Component Id="cmp3375D208FBA2F2D76672287131429A6A" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{AE24E351-EE3A-40AE-9A1C-1B4047C44E30}">
+                <File Id="fil47CAB06F4BFFCC6F4774FF1C242BCDAB" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.TLSModule.dll" />
             </Component>
-            <Component Id="cmp25ED755A65703334D185C99BA5778EC4" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{E5E46C17-BB87-48F7-B7BD-CF0CB5F71780}">
-                <File Id="filB65C8E3594F4FE24B2541E5C5DBF9EDD" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.UI.dll" />
+            <Component Id="cmp25ED755A65703334D185C99BA5778EC4" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{99E6153B-B0B1-42C9-8EFC-7DB00469DDD1}">
+                <File Id="filB65C8E3594F4FE24B2541E5C5DBF9EDD" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.UI.dll" />
             </Component>
-            <Component Id="cmpFB38ED0BF4BB1FADD6FB97FCC7942626" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{C3322A8A-5D36-4298-8B11-539871ED2C19}">
+            <Component Id="cmpFB38ED0BF4BB1FADD6FB97FCC7942626" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{E62F38F8-7469-4C60-8B7F-575DD4B4D07B}">
                 <Class Id="{0008FE9E-E945-3C5A-BDA0-C1AE5F912D49}" Context="InprocServer32" Description="UnityEngine.UIElements.Box" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.UIElements.Box" Description="UnityEngine.UIElements.Box" />
                 </Class>
@@ -16538,7 +16538,7 @@
                 <Class Id="{FECB3558-C35A-3EA2-99EB-1D2DB9E3530E}" Context="InprocServer32" Description="UnityEngine.UIElements.ListView+UxmlFactory" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.UIElements.ListView+UxmlFactory" Description="UnityEngine.UIElements.ListView+UxmlFactory" />
                 </Class>
-                <File Id="filC483B23F666B694E5A72F50F03E8AFF5" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.UIElementsModule.dll" />
+                <File Id="filC483B23F666B694E5A72F50F03E8AFF5" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.UIElementsModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{0008FE9E-E945-3C5A-BDA0-C1AE5F912D49}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{0008FE9E-E945-3C5A-BDA0-C1AE5F912D49}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.UIElements.Box" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{0008FE9E-E945-3C5A-BDA0-C1AE5F912D49}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.UIElementsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -18255,10 +18255,10 @@
                 <RegistryValue Root="HKCR" Key="Record\{F8D9F7C2-0199-3380-9DAD-7A3F14FCE3BA}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{F8D9F7C2-0199-3380-9DAD-7A3F14FCE3BA}\0.0.0.0" Name="CodeBase" Value="file:///[#filC483B23F666B694E5A72F50F03E8AFF5]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmpE2844E775EAC212705FC3E17C1D74534" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{A925315D-43C6-4379-873D-A25623D130F2}">
-                <File Id="fil5317A3EF87B406A6A6695FC48716D9B2" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.UIElementsNativeModule.dll" />
+            <Component Id="cmpE2844E775EAC212705FC3E17C1D74534" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{2AC8A6DF-558E-46C9-865E-3F845F612E30}">
+                <File Id="fil5317A3EF87B406A6A6695FC48716D9B2" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.UIElementsNativeModule.dll" />
             </Component>
-            <Component Id="cmp4F210B2C1E02E1ABF6F00F4042B1053E" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{1416DF61-BD40-4AB1-A2C4-32A0542F3FE6}">
+            <Component Id="cmp4F210B2C1E02E1ABF6F00F4042B1053E" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{79BFC2DE-B8F9-47ED-BF12-CDC4A19847D9}">
                 <Class Id="{641CA517-1FA6-3909-B323-A719F3387780}" Context="InprocServer32" Description="UnityEngine.CanvasRenderer" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.CanvasRenderer" Description="UnityEngine.CanvasRenderer" />
                 </Class>
@@ -18268,7 +18268,7 @@
                 <Class Id="{C6489D53-62DF-31E0-ACAD-3B05BE7D00F3}" Context="InprocServer32" Description="UnityEngine.CanvasGroup" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.CanvasGroup" Description="UnityEngine.CanvasGroup" />
                 </Class>
-                <File Id="fil31CFDDA5E4BBE74D34C2C5954653AFAD" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.UIModule.dll" />
+                <File Id="fil31CFDDA5E4BBE74D34C2C5954653AFAD" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.UIModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{641CA517-1FA6-3909-B323-A719F3387780}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{641CA517-1FA6-3909-B323-A719F3387780}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.CanvasRenderer" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{641CA517-1FA6-3909-B323-A719F3387780}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -18309,10 +18309,10 @@
                 <RegistryValue Root="HKCR" Key="Record\{D7C18921-D696-3A33-93B7-FE62556E20A4}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{D7C18921-D696-3A33-93B7-FE62556E20A4}\0.0.0.0" Name="CodeBase" Value="file:///[#fil31CFDDA5E4BBE74D34C2C5954653AFAD]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmp079E358E4386F1CAB732FFD026768338" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{BDE99C9C-6C0F-4886-A3DD-6F3AAD012120}">
-                <File Id="filC226AE629C6F6E232132B2C2C876EF42" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.UmbraModule.dll" />
+            <Component Id="cmp079E358E4386F1CAB732FFD026768338" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{4EF5EC14-9F11-4930-82F4-B93B72CAC740}">
+                <File Id="filC226AE629C6F6E232132B2C2C876EF42" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.UmbraModule.dll" />
             </Component>
-            <Component Id="cmp9AC50438D188C2ECAF128B03ED815D40" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{9827957F-899E-4757-AF75-1BF853278EE5}">
+            <Component Id="cmp9AC50438D188C2ECAF128B03ED815D40" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{895870D7-019D-4A9F-A926-1E3018F8AA46}">
                 <Class Id="{048D12F1-E769-345C-A36F-58688E53DC5F}" Context="InprocServer32" Description="UnityEngine.Networking.ConnectionConfig" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.Networking.ConnectionConfig" Description="UnityEngine.Networking.ConnectionConfig" />
                 </Class>
@@ -18337,7 +18337,7 @@
                 <Class Id="{E730D296-ACA6-3813-9906-1A5B1E2D0D48}" Context="InprocServer32" Description="UnityEngine.Networking.Match.MatchInfoSnapshot+MatchInfoDirectConnectSnapshot" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.Networking.Match.MatchInfoSnapshot+MatchInfoDirectConnectSnapshot" Description="UnityEngine.Networking.Match.MatchInfoSnapshot+MatchInfoDirectConnectSnapshot" />
                 </Class>
-                <File Id="fil173F0806B55807F1D34C902BB1FB8536" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.UNETModule.dll" />
+                <File Id="fil173F0806B55807F1D34C902BB1FB8536" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.UNETModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{048D12F1-E769-345C-A36F-58688E53DC5F}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{048D12F1-E769-345C-A36F-58688E53DC5F}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.Networking.ConnectionConfig" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{048D12F1-E769-345C-A36F-58688E53DC5F}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.UNETModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -18455,14 +18455,14 @@
                 <RegistryValue Root="HKCR" Key="Record\{A14FE3E8-9DBA-3389-ADD3-0E13A389F29D}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{A14FE3E8-9DBA-3389-ADD3-0E13A389F29D}\0.0.0.0" Name="CodeBase" Value="file:///[#fil173F0806B55807F1D34C902BB1FB8536]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmp7DF84A72530E8C3AE3A03F6D9439BAF2" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{2BE71613-AB36-413D-B869-B04A5CCCBB11}">
-                <File Id="fil56B1A94A2EBC7581B3016B47B230E041" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.UnityAnalyticsCommonModule.dll" />
+            <Component Id="cmp7DF84A72530E8C3AE3A03F6D9439BAF2" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{7DB6CD51-95EA-4953-BF1A-90C1934DAAE3}">
+                <File Id="fil56B1A94A2EBC7581B3016B47B230E041" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.UnityAnalyticsCommonModule.dll" />
             </Component>
-            <Component Id="cmp64D7136148A3A301018D21C8673ED093" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{DEF5BB7D-AF75-41B3-A95F-DAA14A0C523F}">
+            <Component Id="cmp64D7136148A3A301018D21C8673ED093" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{7A0E94E5-81FB-4CCE-B78B-13867CCEF7A9}">
                 <Class Id="{F990595F-6193-32AE-9E9F-090CDF87E0F9}" Context="InprocServer32" Description="UnityEngine.Analytics.ContinuousEvent" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.Analytics.ContinuousEvent" Description="UnityEngine.Analytics.ContinuousEvent" />
                 </Class>
-                <File Id="filD20F1D02E0986E32F292084F45539CEF" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.UnityAnalyticsModule.dll" />
+                <File Id="filD20F1D02E0986E32F292084F45539CEF" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.UnityAnalyticsModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{F990595F-6193-32AE-9E9F-090CDF87E0F9}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{F990595F-6193-32AE-9E9F-090CDF87E0F9}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.Analytics.ContinuousEvent" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{F990595F-6193-32AE-9E9F-090CDF87E0F9}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.UnityAnalyticsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -18489,23 +18489,23 @@
                 <RegistryValue Root="HKCR" Key="Record\{94953F77-8AA9-3A66-BB05-FA2BCF009FBE}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{94953F77-8AA9-3A66-BB05-FA2BCF009FBE}\0.0.0.0" Name="CodeBase" Value="file:///[#filD20F1D02E0986E32F292084F45539CEF]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmp03B17D462548C9304B7172A4EEF783BB" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{53AA7992-B947-4D3D-841D-05EFE7897C79}">
-                <File Id="fil41651493AF68B355EE4B941501EA9E62" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.UnityConnectModule.dll" />
+            <Component Id="cmp03B17D462548C9304B7172A4EEF783BB" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{7143DB83-9E57-40C2-BC23-A3B159CCE5F5}">
+                <File Id="fil41651493AF68B355EE4B941501EA9E62" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.UnityConnectModule.dll" />
             </Component>
-            <Component Id="cmp292C3F6FC734EF087B0F583C63F86E56" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{ACD0672B-2044-4F33-8453-AF28927EFC1D}">
-                <File Id="fil998B043DD9D0D9AF8816033C697A3283" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.UnityCurlModule.dll" />
+            <Component Id="cmp292C3F6FC734EF087B0F583C63F86E56" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{1497DA77-A626-4098-A53A-50CF22605DCF}">
+                <File Id="fil998B043DD9D0D9AF8816033C697A3283" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.UnityCurlModule.dll" />
             </Component>
-            <Component Id="cmp0E0E24FE4A413F06782E74FD61AA68AA" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{6C58F665-1651-46BD-ACA8-1D7B2F7A17E3}">
-                <File Id="fil52119222243C26E532B14263B947B312" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.UnityTestProtocolModule.dll" />
+            <Component Id="cmp0E0E24FE4A413F06782E74FD61AA68AA" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{49F812D7-0874-43CF-A580-5F60B67B15DF}">
+                <File Id="fil52119222243C26E532B14263B947B312" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.UnityTestProtocolModule.dll" />
             </Component>
-            <Component Id="cmp21C43DCC23B292A40824670699A1F880" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{6929214E-01DF-456B-BF35-7CFF4E4DCA0C}">
-                <File Id="fil9171FAC9B2A0339209FA43F3A65D1CB0" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll" />
+            <Component Id="cmp21C43DCC23B292A40824670699A1F880" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{5D323FF5-6A97-4D9A-B6CD-CCE2451E5E5F}">
+                <File Id="fil9171FAC9B2A0339209FA43F3A65D1CB0" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll" />
             </Component>
-            <Component Id="cmp55911C6A85C34FF5D10CC7C49093F7B3" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{1B4F3C38-E93D-401A-AA9E-5925BC0E26F7}">
+            <Component Id="cmp55911C6A85C34FF5D10CC7C49093F7B3" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{2D7CCE49-0B5D-45DC-9726-70747BC35E35}">
                 <Class Id="{548C8910-9BCC-3EDC-A432-7A7B9C876429}" Context="InprocServer32" Description="UnityEngine.Networking.DownloadHandlerMovieTexture" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.Networking.DownloadHandlerMovieTexture" Description="UnityEngine.Networking.DownloadHandlerMovieTexture" />
                 </Class>
-                <File Id="filD4E15F3A91567BD2595020FF4F052CB3" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll" />
+                <File Id="filD4E15F3A91567BD2595020FF4F052CB3" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{548C8910-9BCC-3EDC-A432-7A7B9C876429}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{548C8910-9BCC-3EDC-A432-7A7B9C876429}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.Networking.DownloadHandlerMovieTexture" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{548C8910-9BCC-3EDC-A432-7A7B9C876429}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.UnityWebRequestAudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -18516,7 +18516,7 @@
                 <RegistryValue Root="HKCR" Key="CLSID\{548C8910-9BCC-3EDC-A432-7A7B9C876429}\InprocServer32" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{548C8910-9BCC-3EDC-A432-7A7B9C876429}\InprocServer32" Name="CodeBase" Value="file:///[#filD4E15F3A91567BD2595020FF4F052CB3]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmpC904D6BA315907C57C20135F29101D35" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{D4994B92-DB49-4A07-AAB5-554D738470FE}">
+            <Component Id="cmpC904D6BA315907C57C20135F29101D35" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{EC828B3D-5CB7-4771-829D-74D4F4312890}">
                 <Class Id="{4D96B27B-AFF4-3941-9585-4EF4090A84DB}" Context="InprocServer32" Description="UnityEngine.Networking.DownloadHandlerScript" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.Networking.DownloadHandlerScript" Description="UnityEngine.Networking.DownloadHandlerScript" />
                 </Class>
@@ -18532,7 +18532,7 @@
                 <Class Id="{E0E15BC1-23FD-3B69-9BE0-D56CEC60EEE6}" Context="InprocServer32" Description="UnityEngine.Networking.UnityWebRequestAsyncOperation" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.Networking.UnityWebRequestAsyncOperation" Description="UnityEngine.Networking.UnityWebRequestAsyncOperation" />
                 </Class>
-                <File Id="fil7856139B0FAC6C377970ACB61D0BE72F" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.UnityWebRequestModule.dll" />
+                <File Id="fil7856139B0FAC6C377970ACB61D0BE72F" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.UnityWebRequestModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{4D96B27B-AFF4-3941-9585-4EF4090A84DB}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{4D96B27B-AFF4-3941-9585-4EF4090A84DB}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.Networking.DownloadHandlerScript" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{4D96B27B-AFF4-3941-9585-4EF4090A84DB}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.UnityWebRequestModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -18583,11 +18583,11 @@
                 <RegistryValue Root="HKCR" Key="Record\{E81358C3-D29E-3514-8A45-C2DA7BFE9E73}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{E81358C3-D29E-3514-8A45-C2DA7BFE9E73}\0.0.0.0" Name="CodeBase" Value="file:///[#fil7856139B0FAC6C377970ACB61D0BE72F]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmpE65557869CAC9D732C761EAB42F30193" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{69FA885E-1BFB-4BEF-B375-A588789F253A}">
+            <Component Id="cmpE65557869CAC9D732C761EAB42F30193" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{04E69FF7-EE15-4F44-AAD4-ABCBA4383AF6}">
                 <Class Id="{756C5766-0CEF-39F6-BC62-D7C964EA55CB}" Context="InprocServer32" Description="UnityEngine.Networking.DownloadHandlerTexture" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.Networking.DownloadHandlerTexture" Description="UnityEngine.Networking.DownloadHandlerTexture" />
                 </Class>
-                <File Id="filA1C6CF93D79B4CB63FD5C17E046A1D18" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll" />
+                <File Id="filA1C6CF93D79B4CB63FD5C17E046A1D18" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{756C5766-0CEF-39F6-BC62-D7C964EA55CB}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{756C5766-0CEF-39F6-BC62-D7C964EA55CB}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.Networking.DownloadHandlerTexture" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{756C5766-0CEF-39F6-BC62-D7C964EA55CB}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.UnityWebRequestTextureModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -18598,14 +18598,14 @@
                 <RegistryValue Root="HKCR" Key="CLSID\{756C5766-0CEF-39F6-BC62-D7C964EA55CB}\InprocServer32" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{756C5766-0CEF-39F6-BC62-D7C964EA55CB}\InprocServer32" Name="CodeBase" Value="file:///[#filA1C6CF93D79B4CB63FD5C17E046A1D18]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmp5F12D7EF609F555FD87B58D8FFDD2870" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{C5914307-6527-4939-8185-E127FEA4EEF5}">
-                <File Id="fil1854A300C243F0D1C092A69262487E04" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll" />
+            <Component Id="cmp5F12D7EF609F555FD87B58D8FFDD2870" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{9067258F-9672-4476-B43A-4C33CC8C085D}">
+                <File Id="fil1854A300C243F0D1C092A69262487E04" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll" />
             </Component>
-            <Component Id="cmpB6A4C20B241D102414F7F569620548B4" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{B69B7E91-3CF8-45F4-971F-D48C791EF794}">
+            <Component Id="cmpB6A4C20B241D102414F7F569620548B4" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{BC3C5419-C3B2-4058-954C-7D9739D4A505}">
                 <Class Id="{F8C90C4E-3BBC-336F-8A6B-A6558214765F}" Context="InprocServer32" Description="UnityEngine.WheelCollider" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.WheelCollider" Description="UnityEngine.WheelCollider" />
                 </Class>
-                <File Id="filAF41E924531B05C5E96FEA06ED0A833D" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.VehiclesModule.dll" />
+                <File Id="filAF41E924531B05C5E96FEA06ED0A833D" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.VehiclesModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{F8C90C4E-3BBC-336F-8A6B-A6558214765F}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{F8C90C4E-3BBC-336F-8A6B-A6558214765F}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.WheelCollider" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{F8C90C4E-3BBC-336F-8A6B-A6558214765F}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.VehiclesModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -18620,7 +18620,7 @@
                 <RegistryValue Root="HKCR" Key="Record\{3C8D3527-69BD-372A-A683-3FC647F03AE8}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{3C8D3527-69BD-372A-A683-3FC647F03AE8}\0.0.0.0" Name="CodeBase" Value="file:///[#filAF41E924531B05C5E96FEA06ED0A833D]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmp4F9EFED61BAD6F0E6793C2CB17ED1752" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{45B79C4A-1C26-4FEE-9578-F244B38B3930}">
+            <Component Id="cmp4F9EFED61BAD6F0E6793C2CB17ED1752" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{94AAFEBD-9DC0-4BE6-87B3-FECC6E34C05B}">
                 <Class Id="{323E0F32-AE59-3340-BDDA-2ACECE46567B}" Context="InprocServer32" Description="UnityEngine.VFX.VisualEffectAsset" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.VFX.VisualEffectAsset" Description="UnityEngine.VFX.VisualEffectAsset" />
                 </Class>
@@ -18630,7 +18630,7 @@
                 <Class Id="{4428E233-8C34-37A5-85CD-DC6DA4CBEC8A}" Context="InprocServer32" Description="UnityEngine.VFX.VFXSpawnerState" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.VFX.VFXSpawnerState" Description="UnityEngine.VFX.VFXSpawnerState" />
                 </Class>
-                <File Id="filDC5C508B44CF61823DC46A07D0D8533D" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.VFXModule.dll" />
+                <File Id="filDC5C508B44CF61823DC46A07D0D8533D" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.VFXModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{323E0F32-AE59-3340-BDDA-2ACECE46567B}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{323E0F32-AE59-3340-BDDA-2ACECE46567B}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.VFX.VisualEffectAsset" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{323E0F32-AE59-3340-BDDA-2ACECE46567B}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.VFXModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -18683,11 +18683,11 @@
                 <RegistryValue Root="HKCR" Key="Record\{FD2C0641-37FC-30B4-AD63-6DB7D0EE1837}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{FD2C0641-37FC-30B4-AD63-6DB7D0EE1837}\0.0.0.0" Name="CodeBase" Value="file:///[#filDC5C508B44CF61823DC46A07D0D8533D]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmp5BEF7ED26D097588191B30E4A2009BC7" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{A96DB786-7D0D-49B1-97B8-275A07E93CD9}">
+            <Component Id="cmp5BEF7ED26D097588191B30E4A2009BC7" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{10A1702C-D8FE-402B-BFEB-CF7DEADC1646}">
                 <Class Id="{DC770D0C-79BE-3648-8A26-54B4AED12702}" Context="InprocServer32" Description="UnityEngine.Video.VideoPlayer" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.Video.VideoPlayer" Description="UnityEngine.Video.VideoPlayer" />
                 </Class>
-                <File Id="filF856B85E2C568C60FB4DDEC798F01385" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.VideoModule.dll" />
+                <File Id="filF856B85E2C568C60FB4DDEC798F01385" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.VideoModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{DC770D0C-79BE-3648-8A26-54B4AED12702}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{DC770D0C-79BE-3648-8A26-54B4AED12702}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.Video.VideoPlayer" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{DC770D0C-79BE-3648-8A26-54B4AED12702}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.VideoModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -18730,11 +18730,11 @@
                 <RegistryValue Root="HKCR" Key="Record\{ED0202D7-025E-3075-9312-E87F7E857EB7}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{ED0202D7-025E-3075-9312-E87F7E857EB7}\0.0.0.0" Name="CodeBase" Value="file:///[#filF856B85E2C568C60FB4DDEC798F01385]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmpA6BCC214AB97350FA7E9EA0DC0D85026" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{BE20462E-4673-4B7C-BFAE-FFC512A4667F}">
+            <Component Id="cmpA6BCC214AB97350FA7E9EA0DC0D85026" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{92954311-CB1C-416A-A2F1-46AC3724060D}">
                 <Class Id="{7E9DDE04-855B-341C-B7A6-6CDF670E9DC7}" Context="InprocServer32" Description="UnityEngine.Rendering.VirtualTexturing.Resolver" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.Rendering.VirtualTexturing.Resolver" Description="UnityEngine.Rendering.VirtualTexturing.Resolver" />
                 </Class>
-                <File Id="fil199CF4ABF6DAB62C7A07DDE543AC8DF6" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.VirtualTexturingModule.dll" />
+                <File Id="fil199CF4ABF6DAB62C7A07DDE543AC8DF6" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.VirtualTexturingModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{7E9DDE04-855B-341C-B7A6-6CDF670E9DC7}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{7E9DDE04-855B-341C-B7A6-6CDF670E9DC7}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.Rendering.VirtualTexturing.Resolver" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{7E9DDE04-855B-341C-B7A6-6CDF670E9DC7}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.VirtualTexturingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -18781,11 +18781,11 @@
                 <RegistryValue Root="HKCR" Key="Record\{EC4CA19E-8400-3939-98CA-843A81B6A47D}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{EC4CA19E-8400-3939-98CA-843A81B6A47D}\0.0.0.0" Name="CodeBase" Value="file:///[#fil199CF4ABF6DAB62C7A07DDE543AC8DF6]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmp1D9C90C8EDEF7FA5B7DD99719D772B6D" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{20D7BE8B-5138-400C-AD16-74F5B393956D}">
+            <Component Id="cmp1D9C90C8EDEF7FA5B7DD99719D772B6D" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{6BC29025-3B57-4A05-909F-0A2F41EB3CE9}">
                 <Class Id="{B4BD021B-20DC-33A5-986E-951F961F2748}" Context="InprocServer32" Description="UnityEngineInternal.XR.WSA.RemoteSpeechAccess" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngineInternal.XR.WSA.RemoteSpeechAccess" Description="UnityEngineInternal.XR.WSA.RemoteSpeechAccess" />
                 </Class>
-                <File Id="filD2B183D8F8701E043B5B29887E7E0FDA" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.VRModule.dll" />
+                <File Id="filD2B183D8F8701E043B5B29887E7E0FDA" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.VRModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{B4BD021B-20DC-33A5-986E-951F961F2748}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{B4BD021B-20DC-33A5-986E-951F961F2748}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngineInternal.XR.WSA.RemoteSpeechAccess" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{B4BD021B-20DC-33A5-986E-951F961F2748}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.VRModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -18812,11 +18812,11 @@
                 <RegistryValue Root="HKCR" Key="Record\{CA03476C-1992-30A3-870F-BEE7BED35A0E}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{CA03476C-1992-30A3-870F-BEE7BED35A0E}\0.0.0.0" Name="CodeBase" Value="file:///[#filD2B183D8F8701E043B5B29887E7E0FDA]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmp3AC41845B176B5D4CD6B06DC276F1A04" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{34781FDA-985B-4476-B160-0181790248B0}">
+            <Component Id="cmp3AC41845B176B5D4CD6B06DC276F1A04" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{70FFF1A2-A806-43DA-9C80-2D6D830FD48D}">
                 <Class Id="{47B4E76E-A568-3249-BB09-FC62CCE530B4}" Context="InprocServer32" Description="UnityEngine.WindZone" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.WindZone" Description="UnityEngine.WindZone" />
                 </Class>
-                <File Id="filE13E01379B6A056D719F357CEE511336" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.WindModule.dll" />
+                <File Id="filE13E01379B6A056D719F357CEE511336" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.WindModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{47B4E76E-A568-3249-BB09-FC62CCE530B4}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{47B4E76E-A568-3249-BB09-FC62CCE530B4}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.WindZone" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{47B4E76E-A568-3249-BB09-FC62CCE530B4}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.WindModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -18831,7 +18831,7 @@
                 <RegistryValue Root="HKCR" Key="Record\{E097B640-5D17-3B81-AD82-98527D666B06}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{E097B640-5D17-3B81-AD82-98527D666B06}\0.0.0.0" Name="CodeBase" Value="file:///[#filE13E01379B6A056D719F357CEE511336]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmpF034A9C75261EAEF712E73F83BD19458" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{87F4486C-B209-4C0A-95B9-BE5D600C2AC9}">
+            <Component Id="cmpF034A9C75261EAEF712E73F83BD19458" Directory="dirE7835FEECF1587FAFF326A9DD33DC0E7" Guid="{62987D6D-4A65-4F0A-B467-D14C4E6F699A}">
                 <Class Id="{2AD9635D-7AE6-358F-B5FC-F43CDC7BBD7E}" Context="InprocServer32" Description="UnityEngine.XR.XRDisplaySubsystemDescriptor" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.XR.XRDisplaySubsystemDescriptor" Description="UnityEngine.XR.XRDisplaySubsystemDescriptor" />
                 </Class>
@@ -18853,7 +18853,7 @@
                 <Class Id="{E9834856-B932-36D4-B2CE-76B5F3030101}" Context="InprocServer32" Description="UnityEngine.XR.InputDevices" ThreadingModel="both" ForeignServer="mscoree.dll">
                     <ProgId Id="UnityEngine.XR.InputDevices" Description="UnityEngine.XR.InputDevices" />
                 </Class>
-                <File Id="fil27BB6F6B664329C531B799E4D0A6FBE2" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Managed\UnityEngine.XRModule.dll" />
+                <File Id="fil27BB6F6B664329C531B799E4D0A6FBE2" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Managed\UnityEngine.XRModule.dll" />
                 <RegistryValue Root="HKCR" Key="CLSID\{2AD9635D-7AE6-358F-B5FC-F43CDC7BBD7E}\Implemented Categories\{62C8FE65-4EBB-45e7-B440-6E39B2CDBF29}" Value="" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{2AD9635D-7AE6-358F-B5FC-F43CDC7BBD7E}\InprocServer32\0.0.0.0" Name="Class" Value="UnityEngine.XR.XRDisplaySubsystemDescriptor" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="CLSID\{2AD9635D-7AE6-358F-B5FC-F43CDC7BBD7E}\InprocServer32\0.0.0.0" Name="Assembly" Value="UnityEngine.XRModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Type="string" Action="write" />
@@ -19038,11 +19038,11 @@
                 <RegistryValue Root="HKCR" Key="Record\{F8707064-5835-3753-A86C-0CEE6BA8FB20}\0.0.0.0" Name="RuntimeVersion" Value="v2.0.50727" Type="string" Action="write" />
                 <RegistryValue Root="HKCR" Key="Record\{F8707064-5835-3753-A86C-0CEE6BA8FB20}\0.0.0.0" Name="CodeBase" Value="file:///[#fil27BB6F6B664329C531B799E4D0A6FBE2]" Type="string" Action="write" />
             </Component>
-            <Component Id="cmp7FAD990910806FC0EF90E917C22193BD" Directory="dir84A58393A276EA017FC17C5E58317C8C" Guid="{1AD3372A-2B70-4C17-BB90-20888D6CD2E5}">
-                <File Id="filB322CAA1123BCC90110A1CB01C5DF2C0" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Resources\unity default resources" />
+            <Component Id="cmp7FAD990910806FC0EF90E917C22193BD" Directory="dir84A58393A276EA017FC17C5E58317C8C" Guid="{B8590E1C-A0E5-4DC9-B997-F679A4B50BC3}">
+                <File Id="filB322CAA1123BCC90110A1CB01C5DF2C0" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Resources\unity default resources" />
             </Component>
-            <Component Id="cmpBDB03D7000F81EDE1603B869F121F75C" Directory="dir84A58393A276EA017FC17C5E58317C8C" Guid="{D8A4CD83-93B3-403F-ACF0-3391B8F25C91}">
-                <File Id="fil8CC12A9CFE865F5E8CCCE47503698238" KeyPath="yes" Source="$(MyUnity)\Wix-Hello Unity_Data\Resources\unity_builtin_extra" />
+            <Component Id="cmpBDB03D7000F81EDE1603B869F121F75C" Directory="dir84A58393A276EA017FC17C5E58317C8C" Guid="{91F746C1-14CB-4571-A07E-AF867E04FA55}">
+                <File Id="fil8CC12A9CFE865F5E8CCCE47503698238" KeyPath="yes" Source="$(MyDemo)\Wix-Hello Unity_Data\Resources\unity_builtin_extra" />
             </Component>
         </ComponentGroup>
     </Fragment>
